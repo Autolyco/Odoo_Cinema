@@ -1,0 +1,1488 @@
+2024-01-08 21:05:18,131 9552 INFO ? odoo: Odoo version 17.0-20240108 
+2024-01-08 21:05:18,131 9552 INFO ? odoo: Using configuration file at C:\odoo17\server\odoo.conf 
+2024-01-08 21:05:18,131 9552 INFO ? odoo: addons paths: ['C:\\odoo17\\server\\odoo\\addons', 'c:\\odoo17\\sessions\\addons\\17.0', 'c:\\odoo17\\server\\odoo\\addons'] 
+2024-01-08 21:05:18,131 9552 INFO ? odoo: database: openpg@localhost:5432 
+2024-01-08 21:05:19,343 9552 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at wkhtmltopdf.exe 
+2024-01-08 21:05:19,809 9552 INFO ? odoo.service.server: Initiating shutdown 
+2024-01-08 21:05:19,809 9552 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-01-08 21:05:27,363 6268 INFO ? odoo: Odoo version 17.0-20240108 
+2024-01-08 21:05:27,363 6268 INFO ? odoo: Using configuration file at C:\odoo17\server\odoo.conf 
+2024-01-08 21:05:27,363 6268 INFO ? odoo: addons paths: ['C:\\odoo17\\server\\odoo\\addons', 'c:\\odoo17\\sessions\\addons\\17.0', 'c:\\odoo17\\server\\odoo\\addons'] 
+2024-01-08 21:05:27,363 6268 INFO ? odoo: database: openpg@localhost:5432 
+2024-01-08 21:05:27,494 6268 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\odoo17\thirdparty\wkhtmltopdf.exe 
+2024-01-08 21:05:27,689 6268 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-J2QUOPI.lan:8069 
+2024-01-08 21:05:31,737 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:05:35,804 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:05:39,841 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:05:39,855 6268 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:05:39] "GET / HTTP/1.1" 303 - 0 0.000 5.750
+2024-01-08 21:05:43,897 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:05:47,932 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:05:47,932 6268 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:05:47] "GET /web HTTP/1.1" 303 - 0 0.000 8.075
+2024-01-08 21:05:51,987 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:05:56,630 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:05:56,666 6268 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:05:56] "GET /web/database/selector HTTP/1.1" 200 - 0 0.000 8.729
+2024-01-08 21:06:01,033 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:06:01,034 6268 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:06:01] "GET /web/static/lib/bootstrap/js/dist/dom/data.js HTTP/1.1" 200 - 0 0.000 4.040
+2024-01-08 21:06:05,061 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:06:05,062 6268 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:06:05] "GET /web/static/lib/bootstrap/js/dist/dom/event-handler.js HTTP/1.1" 200 - 0 0.000 8.067
+2024-01-08 21:06:09,107 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:06:09,108 6268 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:06:09] "GET /web/static/lib/bootstrap/dist/css/bootstrap.css HTTP/1.1" 200 - 0 0.000 12.114
+2024-01-08 21:06:13,180 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:06:13,181 6268 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:06:13] "GET /web/static/src/libs/fontawesome/css/font-awesome.css HTTP/1.1" 200 - 0 0.000 16.188
+2024-01-08 21:06:17,207 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:06:17,208 6268 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:06:17] "GET /web/static/lib/bootstrap/js/dist/dom/manipulator.js HTTP/1.1" 200 - 0 0.000 20.211
+2024-01-08 21:06:21,245 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:06:21,246 6268 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:06:21] "GET /web/static/lib/bootstrap/js/dist/dom/selector-engine.js HTTP/1.1" 200 - 0 0.000 24.250
+2024-01-08 21:06:25,300 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:06:25,301 6268 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:06:25] "GET /web/static/lib/bootstrap/js/dist/base-component.js HTTP/1.1" 200 - 0 0.000 23.952
+2024-01-08 21:06:29,346 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:06:29,347 6268 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:06:29] "GET /web/static/lib/bootstrap/js/dist/modal.js HTTP/1.1" 200 - 0 0.000 23.970
+2024-01-08 21:06:33,386 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:06:33,387 6268 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:06:33] "GET /web/static/src/public/database_manager.js HTTP/1.1" 200 - 0 0.000 23.964
+2024-01-08 21:06:37,445 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:06:37,446 6268 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:06:37] "GET /web/static/img/logo2.png HTTP/1.1" 200 - 0 0.000 23.950
+2024-01-08 21:06:41,483 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:06:41,484 6268 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:06:41] "GET /web/static/src/libs/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 - 0 0.000 7.675
+2024-01-08 21:09:32,788 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:09:33,904 6268 INFO None odoo.service.db: Create database `cinemaDB`. 
+2024-01-08 21:09:33,926 6268 INFO None odoo.sql_db: Connection to the database failed 
+2024-01-08 21:09:33,926 6268 ERROR None odoo.addons.web.controllers.database: Database creation error. 
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\addons\web\controllers\database.py", line 81, in create
+    dispatch_rpc('db', 'create_database', [master_pwd, name, bool(post.get('demo')), lang, password, post['login'], country_code, post['phone']])
+  File "C:\odoo17\server\odoo\http.py", line 388, in dispatch_rpc
+    return dispatch(method, params)
+  File "C:\odoo17\server\odoo\service\db.py", line 488, in dispatch
+    return g[exp_method_name](*params)
+  File "<decorator-gen-20>", line 2, in exp_create_database
+  File "C:\odoo17\server\odoo\service\db.py", line 43, in if_db_mgt_enabled
+    return method(self, *args, **kwargs)
+  File "C:\odoo17\server\odoo\service\db.py", line 148, in exp_create_database
+    _create_empty_database(db_name)
+  File "C:\odoo17\server\odoo\service\db.py", line 101, in _create_empty_database
+    with closing(db.cursor()) as cr:
+  File "C:\odoo17\server\odoo\sql_db.py", line 752, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn)
+  File "C:\odoo17\server\odoo\sql_db.py", line 267, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "<decorator-gen-13>", line 2, in borrow
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\sql_db.py", line 681, in borrow
+    result = psycopg2.connect(
+  File "C:\odoo17\python\lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "openpg"
+
+2024-01-08 21:09:34,229 6268 INFO None odoo.sql_db: Connection to the database failed 
+2024-01-08 21:09:34,263 6268 INFO None werkzeug: 127.0.0.1 - - [08/Jan/2024 21:09:34] "POST /web/database/create HTTP/1.1" 200 - 0 0.000 1.499
+2024-01-08 21:11:13,826 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:11:14,378 6268 INFO None odoo.service.db: Create database `cinemaCB`. 
+2024-01-08 21:11:14,401 6268 INFO None odoo.sql_db: Connection to the database failed 
+2024-01-08 21:11:14,401 6268 ERROR None odoo.addons.web.controllers.database: Database creation error. 
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\addons\web\controllers\database.py", line 81, in create
+    dispatch_rpc('db', 'create_database', [master_pwd, name, bool(post.get('demo')), lang, password, post['login'], country_code, post['phone']])
+  File "C:\odoo17\server\odoo\http.py", line 388, in dispatch_rpc
+    return dispatch(method, params)
+  File "C:\odoo17\server\odoo\service\db.py", line 488, in dispatch
+    return g[exp_method_name](*params)
+  File "<decorator-gen-20>", line 2, in exp_create_database
+  File "C:\odoo17\server\odoo\service\db.py", line 43, in if_db_mgt_enabled
+    return method(self, *args, **kwargs)
+  File "C:\odoo17\server\odoo\service\db.py", line 148, in exp_create_database
+    _create_empty_database(db_name)
+  File "C:\odoo17\server\odoo\service\db.py", line 101, in _create_empty_database
+    with closing(db.cursor()) as cr:
+  File "C:\odoo17\server\odoo\sql_db.py", line 752, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn)
+  File "C:\odoo17\server\odoo\sql_db.py", line 267, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "<decorator-gen-13>", line 2, in borrow
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\sql_db.py", line 681, in borrow
+    result = psycopg2.connect(
+  File "C:\odoo17\python\lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "openpg"
+
+2024-01-08 21:11:14,706 6268 INFO None odoo.sql_db: Connection to the database failed 
+2024-01-08 21:11:14,739 6268 INFO None werkzeug: 127.0.0.1 - - [08/Jan/2024 21:11:14] "POST /web/database/create HTTP/1.1" 200 - 0 0.000 0.938
+2024-01-08 21:11:18,044 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:11:18,072 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:11:18,073 6268 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:11:18] "GET /web/ HTTP/1.1" 303 - 0 0.000 0.052
+2024-01-08 21:11:18,099 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:11:18,418 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:11:18,453 6268 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:11:18] "GET /web/database/selector HTTP/1.1" 200 - 0 0.000 0.377
+2024-01-08 21:11:18,508 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:11:18,642 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:11:18,642 6268 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:11:18] "GET /web HTTP/1.1" 303 - 0 0.000 0.158
+2024-01-08 21:11:18,774 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:11:19,079 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:11:19,113 6268 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:11:19] "GET /web/database/selector HTTP/1.1" 200 - 0 0.000 0.363
+2024-01-08 21:12:31,944 6268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:12:32,499 6268 INFO None odoo.service.db: Create database `cinemaDB`. 
+2024-01-08 21:12:32,523 6268 INFO None odoo.sql_db: Connection to the database failed 
+2024-01-08 21:12:32,523 6268 ERROR None odoo.addons.web.controllers.database: Database creation error. 
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\addons\web\controllers\database.py", line 81, in create
+    dispatch_rpc('db', 'create_database', [master_pwd, name, bool(post.get('demo')), lang, password, post['login'], country_code, post['phone']])
+  File "C:\odoo17\server\odoo\http.py", line 388, in dispatch_rpc
+    return dispatch(method, params)
+  File "C:\odoo17\server\odoo\service\db.py", line 488, in dispatch
+    return g[exp_method_name](*params)
+  File "<decorator-gen-20>", line 2, in exp_create_database
+  File "C:\odoo17\server\odoo\service\db.py", line 43, in if_db_mgt_enabled
+    return method(self, *args, **kwargs)
+  File "C:\odoo17\server\odoo\service\db.py", line 148, in exp_create_database
+    _create_empty_database(db_name)
+  File "C:\odoo17\server\odoo\service\db.py", line 101, in _create_empty_database
+    with closing(db.cursor()) as cr:
+  File "C:\odoo17\server\odoo\sql_db.py", line 752, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn)
+  File "C:\odoo17\server\odoo\sql_db.py", line 267, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "<decorator-gen-13>", line 2, in borrow
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\sql_db.py", line 681, in borrow
+    result = psycopg2.connect(
+  File "C:\odoo17\python\lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "openpg"
+
+2024-01-08 21:12:32,826 6268 INFO None odoo.sql_db: Connection to the database failed 
+2024-01-08 21:12:32,859 6268 INFO None werkzeug: 127.0.0.1 - - [08/Jan/2024 21:12:32] "POST /web/database/create HTTP/1.1" 200 - 0 0.000 0.938
+2024-01-08 21:13:53,152 6268 INFO ? odoo.service.server: Initiating shutdown 
+2024-01-08 21:13:53,152 6268 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-01-08 21:13:54,246 6268 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2024-01-08 21:13:57,273 2740 INFO ? odoo: Odoo version 17.0-20240108 
+2024-01-08 21:13:57,274 2740 INFO ? odoo: Using configuration file at C:\odoo17\server\odoo.conf 
+2024-01-08 21:13:57,274 2740 INFO ? odoo: addons paths: ['C:\\odoo17\\server\\odoo\\addons', 'c:\\odoo17\\sessions\\addons\\17.0', 'c:\\odoo17\\server\\odoo\\addons'] 
+2024-01-08 21:13:57,274 2740 INFO ? odoo: database: openpg@localhost:5432 
+2024-01-08 21:13:57,584 2740 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\odoo17\thirdparty\wkhtmltopdf.exe 
+2024-01-08 21:13:57,757 2740 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-J2QUOPI.lan:8069 
+2024-01-08 21:13:57,765 2740 INFO ? odoo.modules.loading: init db 
+2024-01-08 21:13:58,613 2740 INFO localhost odoo.modules.loading: loading 1 modules... 
+2024-01-08 21:13:58,614 2740 INFO localhost odoo.modules.loading: Loading module base (1/1) 
+2024-01-08 21:13:58,628 2740 INFO localhost odoo.modules.registry: module base: creating or updating database tables 
+2024-01-08 21:13:58,964 2740 INFO localhost odoo.models: Prepare computation of ir.module.module.menus_by_module 
+2024-01-08 21:13:58,964 2740 INFO localhost odoo.models: Prepare computation of ir.module.module.reports_by_module 
+2024-01-08 21:13:58,964 2740 INFO localhost odoo.models: Prepare computation of ir.module.module.views_by_module 
+2024-01-08 21:13:59,081 2740 INFO localhost odoo.models: Prepare computation of res.partner.user_id 
+2024-01-08 21:13:59,081 2740 INFO localhost odoo.models: Prepare computation of res.partner.commercial_partner_id 
+2024-01-08 21:13:59,081 2740 INFO localhost odoo.models: Prepare computation of res.partner.complete_name 
+2024-01-08 21:13:59,081 2740 INFO localhost odoo.models: Prepare computation of res.partner.company_registry 
+2024-01-08 21:13:59,081 2740 INFO localhost odoo.models: Prepare computation of res.partner.commercial_company_name 
+2024-01-08 21:13:59,082 2740 INFO localhost odoo.models: Prepare computation of res.partner.partner_share 
+2024-01-08 21:13:59,123 2740 INFO localhost odoo.models: Prepare computation of res.currency.decimal_places 
+2024-01-08 21:13:59,149 2740 INFO localhost odoo.models: Prepare computation of res.company.uses_default_logo 
+2024-01-08 21:13:59,149 2740 INFO localhost odoo.models: Prepare computation of res.company.logo_web 
+2024-01-08 21:13:59,150 2740 INFO localhost odoo.models: Computing parent_path for table res_company... 
+2024-01-08 21:13:59,176 2740 INFO localhost odoo.models: Prepare computation of res.users.signature 
+2024-01-08 21:13:59,176 2740 INFO localhost odoo.models: Prepare computation of res.users.share 
+2024-01-08 21:14:00,413 2740 INFO localhost odoo.modules.loading: loading base/data/res_bank.xml 
+2024-01-08 21:14:00,418 2740 INFO localhost odoo.modules.loading: loading base/data/res.lang.csv 
+2024-01-08 21:14:00,448 2740 INFO localhost odoo.modules.loading: loading base/data/res_lang_data.xml 
+2024-01-08 21:14:00,466 2740 INFO localhost odoo.modules.loading: loading base/data/res_partner_data.xml 
+2024-01-08 21:14:00,510 2740 INFO localhost odoo.modules.loading: loading base/data/res_currency_data.xml 
+2024-01-08 21:14:00,829 2740 INFO localhost odoo.modules.loading: loading base/data/res_company_data.xml 
+2024-01-08 21:14:00,835 2740 INFO localhost odoo.modules.loading: loading base/data/res_users_data.xml 
+2024-01-08 21:14:01,414 2740 INFO localhost odoo.modules.loading: loading base/data/report_paperformat_data.xml 
+2024-01-08 21:14:01,419 2740 INFO localhost odoo.modules.loading: loading base/data/res_country_data.xml 
+2024-01-08 21:14:01,711 2740 INFO localhost odoo.modules.loading: loading base/data/ir_demo_data.xml 
+2024-01-08 21:14:01,718 2740 INFO localhost odoo.modules.loading: loading base/security/base_groups.xml 
+2024-01-08 21:14:01,862 2740 INFO localhost odoo.modules.loading: loading base/security/base_security.xml 
+2024-01-08 21:14:01,925 2740 INFO localhost odoo.modules.loading: loading base/views/base_menus.xml 
+2024-01-08 21:14:01,973 2740 INFO localhost odoo.modules.loading: loading base/views/decimal_precision_views.xml 
+2024-01-08 21:14:01,984 2740 INFO localhost odoo.modules.loading: loading base/views/res_config_views.xml 
+2024-01-08 21:14:01,989 2740 INFO localhost odoo.modules.loading: loading base/data/res.country.state.csv 
+2024-01-08 21:14:02,292 2740 INFO localhost odoo.modules.loading: loading base/views/ir_actions_views.xml 
+2024-01-08 21:14:02,366 2740 INFO localhost odoo.modules.loading: loading base/views/ir_asset_views.xml 
+2024-01-08 21:14:02,377 2740 INFO localhost odoo.modules.loading: loading base/views/ir_config_parameter_views.xml 
+2024-01-08 21:14:02,388 2740 INFO localhost odoo.modules.loading: loading base/views/ir_cron_views.xml 
+2024-01-08 21:14:02,406 2740 INFO localhost odoo.modules.loading: loading base/views/ir_cron_trigger_views.xml 
+2024-01-08 21:14:02,416 2740 INFO localhost odoo.modules.loading: loading base/views/ir_filters_views.xml 
+2024-01-08 21:14:02,427 2740 INFO localhost odoo.modules.loading: loading base/views/ir_mail_server_views.xml 
+2024-01-08 21:14:02,439 2740 INFO localhost odoo.modules.loading: loading base/views/ir_model_views.xml 
+2024-01-08 21:14:02,522 2740 INFO localhost odoo.modules.loading: loading base/views/ir_attachment_views.xml 
+2024-01-08 21:14:02,535 2740 INFO localhost odoo.modules.loading: loading base/views/ir_rule_views.xml 
+2024-01-08 21:14:02,550 2740 INFO localhost odoo.modules.loading: loading base/views/ir_sequence_views.xml 
+2024-01-08 21:14:02,562 2740 INFO localhost odoo.modules.loading: loading base/views/ir_ui_menu_views.xml 
+2024-01-08 21:14:02,573 2740 INFO localhost odoo.modules.loading: loading base/views/ir_ui_view_views.xml 
+2024-01-08 21:14:02,601 2740 INFO localhost odoo.modules.loading: loading base/views/ir_default_views.xml 
+2024-01-08 21:14:02,612 2740 INFO localhost odoo.modules.loading: loading base/data/ir_cron_data.xml 
+2024-01-08 21:14:02,621 2740 INFO localhost odoo.modules.loading: loading base/report/ir_model_report.xml 
+2024-01-08 21:14:02,623 2740 INFO localhost odoo.modules.loading: loading base/report/ir_model_templates.xml 
+2024-01-08 21:14:02,628 2740 INFO localhost odoo.modules.loading: loading base/views/ir_logging_views.xml 
+2024-01-08 21:14:02,638 2740 INFO localhost odoo.modules.loading: loading base/views/ir_qweb_widget_templates.xml 
+2024-01-08 21:14:02,645 2740 INFO localhost odoo.modules.loading: loading base/views/ir_module_views.xml 
+2024-01-08 21:14:02,674 2740 INFO localhost odoo.modules.loading: loading base/data/ir_module_category_data.xml 
+2024-01-08 21:14:02,717 2740 INFO localhost odoo.modules.loading: loading base/data/ir_module_module.xml 
+2024-01-08 21:14:02,758 2740 INFO localhost odoo.modules.loading: loading base/report/ir_module_reports.xml 
+2024-01-08 21:14:02,760 2740 INFO localhost odoo.modules.loading: loading base/report/ir_module_report_templates.xml 
+2024-01-08 21:14:02,764 2740 INFO localhost odoo.modules.loading: loading base/wizard/base_module_update_views.xml 
+2024-01-08 21:14:02,771 2740 INFO localhost odoo.modules.loading: loading base/wizard/base_language_install_views.xml 
+2024-01-08 21:14:02,778 2740 INFO localhost odoo.modules.loading: loading base/wizard/base_import_language_views.xml 
+2024-01-08 21:14:02,785 2740 INFO localhost odoo.modules.loading: loading base/wizard/base_module_upgrade_views.xml 
+2024-01-08 21:14:02,796 2740 INFO localhost odoo.modules.loading: loading base/wizard/base_module_uninstall_views.xml 
+2024-01-08 21:14:02,800 2740 INFO localhost odoo.modules.loading: loading base/wizard/base_export_language_views.xml 
+2024-01-08 21:14:02,807 2740 INFO localhost odoo.modules.loading: loading base/wizard/base_partner_merge_views.xml 
+2024-01-08 21:14:02,815 2740 INFO localhost odoo.modules.loading: loading base/data/ir_demo_failure_data.xml 
+2024-01-08 21:14:02,824 2740 INFO localhost odoo.modules.loading: loading base/views/ir_profile_views.xml 
+2024-01-08 21:14:02,837 2740 INFO localhost odoo.modules.loading: loading base/views/res_company_views.xml 
+2024-01-08 21:14:02,849 2740 INFO localhost odoo.modules.loading: loading base/views/res_lang_views.xml 
+2024-01-08 21:14:02,862 2740 INFO localhost odoo.modules.loading: loading base/views/res_partner_views.xml 
+2024-01-08 21:14:02,923 2740 INFO localhost odoo.modules.loading: loading base/views/res_bank_views.xml 
+2024-01-08 21:14:02,941 2740 INFO localhost odoo.modules.loading: loading base/views/res_country_views.xml 
+2024-01-08 21:14:02,963 2740 INFO localhost odoo.modules.loading: loading base/views/res_currency_views.xml 
+2024-01-08 21:14:02,983 2740 INFO localhost odoo.modules.loading: loading base/views/res_users_views.xml 
+2024-01-08 21:14:03,046 2740 INFO localhost odoo.modules.loading: loading base/views/res_users_identitycheck_views.xml 
+2024-01-08 21:14:03,052 2740 INFO localhost odoo.modules.loading: loading base/views/ir_property_views.xml 
+2024-01-08 21:14:03,063 2740 INFO localhost odoo.modules.loading: loading base/views/res_config_settings_views.xml 
+2024-01-08 21:14:03,067 2740 INFO localhost odoo.modules.loading: loading base/views/report_paperformat_views.xml 
+2024-01-08 21:14:03,081 2740 INFO localhost odoo.modules.loading: loading base/security/ir.model.access.csv 
+2024-01-08 21:14:03,150 2740 INFO localhost odoo.modules.loading: Module base: loading demo 
+2024-01-08 21:14:03,150 2740 INFO localhost odoo.modules.loading: loading base/data/res_users_demo.xml 
+2024-01-08 21:14:04,105 2740 INFO localhost odoo.modules.loading: loading base/data/res_partner_bank_demo.xml 
+2024-01-08 21:14:04,109 2740 INFO localhost odoo.modules.loading: loading base/data/res_currency_demo.xml 
+2024-01-08 21:14:04,112 2740 INFO localhost odoo.modules.loading: loading base/data/res_currency_rate_demo.xml 
+2024-01-08 21:14:04,262 2740 INFO localhost odoo.modules.loading: loading base/data/res_bank_demo.xml 
+2024-01-08 21:14:04,265 2740 INFO localhost odoo.modules.loading: loading base/data/res_partner_demo.xml 
+2024-01-08 21:14:04,398 2740 INFO localhost odoo.modules.loading: loading base/data/res_partner_image_demo.xml 
+2024-01-08 21:14:04,794 2740 INFO localhost odoo.modules.loading: Module base loaded in 6.18s, 9029 queries (+9029 other) 
+2024-01-08 21:14:04,794 2740 INFO localhost odoo.modules.loading: 1 modules loaded in 6.18s, 9029 queries (+9029 extra) 
+2024-01-08 21:14:04,805 2740 INFO localhost odoo.modules.loading: updating modules list 
+2024-01-08 21:14:04,807 2740 INFO localhost odoo.addons.base.models.ir_module: ALLOW access to module.update_list on [] to user __system__ #1 via n/a 
+2024-01-08 21:14:05,210 2740 INFO localhost odoo.modules.loading: loading 11 modules... 
+2024-01-08 21:14:05,210 2740 INFO localhost odoo.modules.loading: Loading module web (2/11) 
+2024-01-08 21:14:05,223 2740 INFO localhost odoo.modules.registry: module web: creating or updating database tables 
+2024-01-08 21:14:05,571 2740 INFO localhost odoo.modules.loading: loading web/security/ir.model.access.csv 
+2024-01-08 21:14:05,584 2740 INFO localhost odoo.modules.loading: loading web/views/webclient_templates.xml 
+2024-01-08 21:14:05,612 2740 INFO localhost odoo.modules.loading: loading web/views/report_templates.xml 
+2024-01-08 21:14:05,654 2740 INFO localhost odoo.modules.loading: loading web/views/base_document_layout_views.xml 
+2024-01-08 21:14:05,665 2740 INFO localhost odoo.modules.loading: loading web/views/partner_view.xml 
+2024-01-08 21:14:05,668 2740 INFO localhost odoo.modules.loading: loading web/views/speedscope_template.xml 
+2024-01-08 21:14:05,671 2740 INFO localhost odoo.modules.loading: loading web/views/neutralize_views.xml 
+2024-01-08 21:14:05,675 2740 INFO localhost odoo.modules.loading: loading web/data/ir_attachment.xml 
+2024-01-08 21:14:05,679 2740 INFO localhost odoo.modules.loading: loading web/data/report_layout.xml 
+2024-01-08 21:14:05,710 2740 INFO localhost odoo.modules.loading: Module web loaded in 0.50s, 941 queries (+941 other) 
+2024-01-08 21:14:05,710 2740 INFO localhost odoo.modules.loading: Loading module auth_totp (3/11) 
+2024-01-08 21:14:05,745 2740 INFO localhost odoo.modules.registry: module auth_totp: creating or updating database tables 
+2024-01-08 21:14:05,797 2740 INFO localhost odoo.modules.loading: loading auth_totp/security/security.xml 
+2024-01-08 21:14:05,814 2740 INFO localhost odoo.modules.loading: loading auth_totp/security/ir.model.access.csv 
+2024-01-08 21:14:05,819 2740 INFO localhost odoo.modules.loading: loading auth_totp/data/ir_action_data.xml 
+2024-01-08 21:14:05,824 2740 INFO localhost odoo.modules.loading: loading auth_totp/views/res_users_views.xml 
+2024-01-08 21:14:05,839 2740 INFO localhost odoo.modules.loading: loading auth_totp/views/templates.xml 
+2024-01-08 21:14:05,843 2740 INFO localhost odoo.modules.loading: loading auth_totp/wizard/auth_totp_wizard_views.xml 
+2024-01-08 21:14:05,855 2740 INFO localhost odoo.modules.loading: Module auth_totp loaded in 0.15s, 173 queries (+173 other) 
+2024-01-08 21:14:05,855 2740 INFO localhost odoo.modules.loading: Loading module base_import (4/11) 
+2024-01-08 21:14:05,880 2740 INFO localhost odoo.modules.registry: module base_import: creating or updating database tables 
+2024-01-08 21:14:06,222 2740 INFO localhost odoo.modules.loading: loading base_import/security/ir.model.access.csv 
+2024-01-08 21:14:06,234 2740 INFO localhost odoo.modules.loading: Module base_import loaded in 0.38s, 753 queries (+753 other) 
+2024-01-08 21:14:06,235 2740 INFO localhost odoo.modules.loading: Loading module base_import_module (5/11) 
+2024-01-08 21:14:06,255 2740 INFO localhost odoo.modules.registry: module base_import_module: creating or updating database tables 
+2024-01-08 21:14:06,352 2740 INFO localhost odoo.modules.loading: loading base_import_module/security/ir.model.access.csv 
+2024-01-08 21:14:06,360 2740 INFO localhost odoo.modules.loading: loading base_import_module/views/base_import_module_view.xml 
+2024-01-08 21:14:06,371 2740 INFO localhost odoo.modules.loading: loading base_import_module/views/ir_module_views.xml 
+2024-01-08 21:14:06,403 2740 INFO localhost odoo.modules.loading: Module base_import_module loaded in 0.17s, 142 queries (+142 other) 
+2024-01-08 21:14:06,403 2740 INFO localhost odoo.modules.loading: Loading module base_setup (6/11) 
+2024-01-08 21:14:06,427 2740 INFO localhost odoo.modules.registry: module base_setup: creating or updating database tables 
+2024-01-08 21:14:06,468 2740 INFO localhost odoo.modules.loading: loading base_setup/data/base_setup_data.xml 
+2024-01-08 21:14:06,472 2740 INFO localhost odoo.modules.loading: loading base_setup/views/res_config_settings_views.xml 
+2024-01-08 21:14:06,490 2740 INFO localhost odoo.modules.loading: loading base_setup/views/res_partner_views.xml 
+2024-01-08 21:14:06,503 2740 INFO localhost odoo.modules.loading: Module base_setup loaded in 0.10s, 137 queries (+137 other) 
+2024-01-08 21:14:06,503 2740 INFO localhost odoo.modules.loading: Loading module bus (7/11) 
+2024-01-08 21:14:06,539 2740 INFO localhost odoo.modules.registry: module bus: creating or updating database tables 
+2024-01-08 21:14:06,605 2740 INFO localhost odoo.modules.loading: loading bus/security/ir.model.access.csv 
+2024-01-08 21:14:06,619 2740 INFO localhost odoo.modules.loading: Module bus loaded in 0.12s, 107 queries (+107 other) 
+2024-01-08 21:14:06,619 2740 INFO localhost odoo.modules.loading: Loading module web_tour (8/11) 
+2024-01-08 21:14:06,633 2740 INFO localhost odoo.modules.registry: module web_tour: creating or updating database tables 
+2024-01-08 21:14:06,657 2740 INFO localhost odoo.modules.loading: loading web_tour/security/ir.model.access.csv 
+2024-01-08 21:14:06,664 2740 INFO localhost odoo.modules.loading: loading web_tour/security/ir.rule.csv 
+2024-01-08 21:14:06,670 2740 INFO localhost odoo.modules.loading: loading web_tour/views/tour_views.xml 
+2024-01-08 21:14:06,691 2740 INFO localhost odoo.modules.loading: Module web_tour loaded in 0.07s, 103 queries (+103 other) 
+2024-01-08 21:14:06,691 2740 INFO localhost odoo.modules.loading: Loading module iap (9/11) 
+2024-01-08 21:14:06,711 2740 INFO localhost odoo.modules.registry: module iap: creating or updating database tables 
+2024-01-08 21:14:06,765 2740 INFO localhost odoo.modules.loading: loading iap/security/ir.model.access.csv 
+2024-01-08 21:14:06,772 2740 INFO localhost odoo.modules.loading: loading iap/security/ir_rule.xml 
+2024-01-08 21:14:06,777 2740 INFO localhost odoo.modules.loading: loading iap/views/iap_views.xml 
+2024-01-08 21:14:06,791 2740 INFO localhost odoo.modules.loading: loading iap/views/res_config_settings.xml 
+2024-01-08 21:14:06,808 2740 INFO localhost odoo.modules.loading: Module iap loaded in 0.12s, 150 queries (+150 other) 
+2024-01-08 21:14:06,808 2740 INFO localhost odoo.modules.loading: Loading module web_editor (10/11) 
+2024-01-08 21:14:06,870 2740 INFO localhost odoo.modules.registry: module web_editor: creating or updating database tables 
+2024-01-08 21:14:07,248 2740 INFO localhost odoo.modules.loading: loading web_editor/security/ir.model.access.csv 
+2024-01-08 21:14:07,255 2740 INFO localhost odoo.modules.loading: loading web_editor/data/editor_assets.xml 
+2024-01-08 21:14:07,258 2740 INFO localhost odoo.modules.loading: loading web_editor/views/editor.xml 
+2024-01-08 21:14:07,266 2740 INFO localhost odoo.modules.loading: loading web_editor/views/snippets.xml 
+2024-01-08 21:14:07,294 2740 INFO localhost odoo.modules.loading: Module web_editor loaded in 0.49s, 859 queries (+859 other) 
+2024-01-08 21:14:07,294 2740 INFO localhost odoo.modules.loading: Loading module web_unsplash (11/11) 
+2024-01-08 21:14:07,314 2740 INFO localhost odoo.modules.registry: module web_unsplash: creating or updating database tables 
+2024-01-08 21:14:07,351 2740 INFO localhost odoo.modules.loading: loading web_unsplash/views/res_config_settings_view.xml 
+2024-01-08 21:14:07,373 2740 INFO localhost odoo.modules.loading: Module web_unsplash loaded in 0.08s, 93 queries (+93 other) 
+2024-01-08 21:14:07,373 2740 INFO localhost odoo.modules.loading: 11 modules loaded in 2.16s, 3458 queries (+3458 extra) 
+2024-01-08 21:14:07,548 2740 INFO localhost odoo.modules.loading: Modules loaded. 
+2024-01-08 21:14:07,550 2740 INFO localhost odoo.modules.registry: Registry loaded in 9.796s 
+2024-01-08 21:14:07,608 2740 INFO localhost odoo.addons.base.models.ir_http: Generating routing map for key None 
+2024-01-08 21:14:07,625 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:07] "GET /web/database/create HTTP/1.1" 405 - 1 0.002 6.052
+2024-01-08 21:14:07,924 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:07] "GET /web HTTP/1.1" 303 - 8 0.003 0.005
+2024-01-08 21:14:08,053 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:08] "GET /web/login HTTP/1.1" 200 - 52 0.016 0.111
+2024-01-08 21:14:12,351 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:12] "GET /web/binary/company_logo HTTP/1.1" 200 - 5 0.018 3.943
+2024-01-08 21:14:12,383 2740 INFO localhost odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/2cefe85/web.assets_frontend_minimal.min.js (id:189) 
+2024-01-08 21:14:12,388 2740 INFO localhost odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/bdd1bac/web.assets_frontend.min.css (id:188) 
+2024-01-08 21:14:12,396 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:12] "GET /web/assets/2cefe85/web.assets_frontend_minimal.min.js HTTP/1.1" 200 - 12 0.006 0.023
+2024-01-08 21:14:12,396 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:12] "GET /web/assets/bdd1bac/web.assets_frontend.min.css HTTP/1.1" 200 - 15 0.016 3.991
+2024-01-08 21:14:13,054 2740 INFO localhost odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/1a6237d/web.assets_frontend_lazy.min.js (id:190) 
+2024-01-08 21:14:13,188 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:13] "GET /web/assets/1a6237d/web.assets_frontend_lazy.min.js HTTP/1.1" 200 - 12 0.004 0.439
+2024-01-08 21:14:13,258 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:13] "GET /web/webclient/translations/1704748453246 HTTP/1.1" 200 - 7 0.002 0.007
+2024-01-08 21:14:15,977 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:15] "GET /web HTTP/1.1" 303 - 4 0.001 0.003
+2024-01-08 21:14:16,135 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:16] "GET /web/login HTTP/1.1" 200 - 6 0.001 0.004
+2024-01-08 21:14:16,291 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:16] "GET /web/binary/company_logo HTTP/1.1" 304 - 5 0.003 0.001
+2024-01-08 21:14:16,463 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:16] "GET /web/webclient/translations/1704748456367 HTTP/1.1" 200 - 6 0.001 0.003
+2024-01-08 21:14:29,420 2740 INFO localhost odoo.addons.base.models.res_users: Login failed for db:localhost login:cedlec59@gmail.com from 127.0.0.1 
+2024-01-08 21:14:29,421 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:29] "POST /web/login HTTP/1.1" 200 - 9 0.004 0.004
+2024-01-08 21:14:29,731 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:29] "GET /web/binary/company_logo HTTP/1.1" 304 - 5 0.003 0.001
+2024-01-08 21:14:30,059 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:30] "GET /web/webclient/translations/1704748469746 HTTP/1.1" 200 - 6 0.000 0.005
+2024-01-08 21:14:40,775 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:40] "GET /web/database/selector HTTP/1.1" 200 - 6 0.001 0.312
+2024-01-08 21:14:42,209 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:42] "GET /web?db=localhost HTTP/1.1" 303 - 4 0.002 0.003
+2024-01-08 21:14:42,522 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:42] "GET /web/login?db=localhost HTTP/1.1" 200 - 6 0.001 0.003
+2024-01-08 21:14:42,850 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:42] "GET /web/binary/company_logo?dbname=localhost HTTP/1.1" 200 - 5 0.002 0.002
+2024-01-08 21:14:43,116 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:43] "GET /web/webclient/translations/1704748482879 HTTP/1.1" 200 - 6 0.001 0.005
+2024-01-08 21:14:46,103 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:46] "GET /web/database/manager HTTP/1.1" 200 - 6 0.002 0.312
+2024-01-08 21:14:52,638 2740 INFO None odoo.sql_db: ConnectionPool(used=2/count=2/max=64): Closed 3 connections to 'user=openpg password=xxx dbname=localhost host=localhost port=5432 application_name=odoo-2740 sslmode=prefer' 
+2024-01-08 21:14:52,756 2740 INFO None odoo.service.db: DROP DB: localhost 
+2024-01-08 21:14:52,777 2740 INFO None werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:52] "POST /web/database/drop HTTP/1.1" 303 - 6 0.095 0.599
+2024-01-08 21:14:52,807 2740 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:14:53,122 2740 INFO localhost odoo.sql_db: Connection to the database failed 
+2024-01-08 21:14:53,122 2740 ERROR localhost odoo.http: Exception during request handling. 
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\modules\registry.py", line 87, in __new__
+    return cls.registries[db_name]
+  File "<decorator-gen-5>", line 2, in __getitem__
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\tools\lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: 'localhost'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\http.py", line 1701, in _serve_db
+    self.registry = Registry(self.db).check_signaling()
+  File "C:\odoo17\server\odoo\modules\registry.py", line 89, in __new__
+    return cls.new(db_name)
+  File "<decorator-gen-16>", line 2, in new
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\modules\registry.py", line 101, in new
+    registry.init(db_name)
+  File "C:\odoo17\server\odoo\modules\registry.py", line 182, in init
+    with closing(self.cursor()) as cr:
+  File "C:\odoo17\server\odoo\modules\registry.py", line 950, in cursor
+    return self._db.cursor()
+  File "C:\odoo17\server\odoo\sql_db.py", line 752, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn)
+  File "C:\odoo17\server\odoo\sql_db.py", line 267, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "<decorator-gen-13>", line 2, in borrow
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\sql_db.py", line 681, in borrow
+    result = psycopg2.connect(
+  File "C:\odoo17\python\lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "localhost" does not exist
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\http.py", line 2150, in __call__
+    response = request._serve_db()
+  File "C:\odoo17\server\odoo\http.py", line 1716, in _serve_db
+    return self._serve_nodb()
+  File "C:\odoo17\server\odoo\http.py", line 1691, in _serve_nodb
+    response = self.dispatcher.dispatch(rule.endpoint, args)
+  File "C:\odoo17\server\odoo\http.py", line 1868, in dispatch
+    return endpoint(**self.request.params)
+  File "C:\odoo17\server\odoo\http.py", line 722, in route_wrapper
+    result = endpoint(self, *args, **params_ok)
+  File "C:\odoo17\server\odoo\addons\web\controllers\database.py", line 69, in manager
+    return self._render_template()
+  File "C:\odoo17\server\odoo\addons\web\controllers\database.py", line 40, in _render_template
+    d['incompatible_databases'] = odoo.service.db.list_db_incompatible(d['databases'])
+  File "C:\odoo17\server\odoo\service\db.py", line 433, in list_db_incompatible
+    with closing(db_connect(database_name).cursor()) as cr:
+  File "C:\odoo17\server\odoo\sql_db.py", line 752, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn)
+  File "C:\odoo17\server\odoo\sql_db.py", line 267, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "<decorator-gen-13>", line 2, in borrow
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\sql_db.py", line 681, in borrow
+    result = psycopg2.connect(
+  File "C:\odoo17\python\lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "localhost" does not exist
+
+2024-01-08 21:14:53,124 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:53] "GET /web/database/manager HTTP/1.1" 500 - 0 0.000 0.343
+2024-01-08 21:14:53,498 2740 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:14:53,499 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:53] "GET /favicon.ico HTTP/1.1" 404 - 0 0.000 0.024
+2024-01-08 21:14:57,025 2740 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:14:57,026 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:57] "GET /web/database HTTP/1.1" 404 - 0 0.000 0.025
+2024-01-08 21:14:59,363 2740 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:14:59,363 2740 ERROR localhost odoo.http: Exception during request handling. 
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\modules\registry.py", line 87, in __new__
+    return cls.registries[db_name]
+  File "<decorator-gen-5>", line 2, in __getitem__
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\tools\lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: 'localhost'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\http.py", line 2150, in __call__
+    response = request._serve_db()
+  File "C:\odoo17\server\odoo\http.py", line 1701, in _serve_db
+    self.registry = Registry(self.db).check_signaling()
+  File "C:\odoo17\server\odoo\modules\registry.py", line 89, in __new__
+    return cls.new(db_name)
+  File "<decorator-gen-16>", line 2, in new
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\modules\registry.py", line 101, in new
+    registry.init(db_name)
+  File "C:\odoo17\server\odoo\modules\registry.py", line 182, in init
+    with closing(self.cursor()) as cr:
+  File "C:\odoo17\server\odoo\modules\registry.py", line 950, in cursor
+    return self._db.cursor()
+  File "C:\odoo17\server\odoo\sql_db.py", line 752, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn)
+  File "C:\odoo17\server\odoo\sql_db.py", line 267, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "<decorator-gen-13>", line 2, in borrow
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\sql_db.py", line 681, in borrow
+    result = psycopg2.connect(
+  File "C:\odoo17\python\lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "localhost" does not exist
+
+2024-01-08 21:14:59,364 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:59] "GET /web HTTP/1.1" 500 - 0 0.000 0.025
+2024-01-08 21:14:59,830 2740 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:14:59,831 2740 ERROR localhost odoo.http: Exception during request handling. 
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\modules\registry.py", line 87, in __new__
+    return cls.registries[db_name]
+  File "<decorator-gen-5>", line 2, in __getitem__
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\tools\lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: 'localhost'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\http.py", line 2150, in __call__
+    response = request._serve_db()
+  File "C:\odoo17\server\odoo\http.py", line 1701, in _serve_db
+    self.registry = Registry(self.db).check_signaling()
+  File "C:\odoo17\server\odoo\modules\registry.py", line 89, in __new__
+    return cls.new(db_name)
+  File "<decorator-gen-16>", line 2, in new
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\modules\registry.py", line 101, in new
+    registry.init(db_name)
+  File "C:\odoo17\server\odoo\modules\registry.py", line 182, in init
+    with closing(self.cursor()) as cr:
+  File "C:\odoo17\server\odoo\modules\registry.py", line 950, in cursor
+    return self._db.cursor()
+  File "C:\odoo17\server\odoo\sql_db.py", line 752, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn)
+  File "C:\odoo17\server\odoo\sql_db.py", line 267, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "<decorator-gen-13>", line 2, in borrow
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\sql_db.py", line 681, in borrow
+    result = psycopg2.connect(
+  File "C:\odoo17\python\lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "localhost" does not exist
+
+2024-01-08 21:14:59,832 2740 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:14:59] "GET /web HTTP/1.1" 500 - 0 0.000 0.025
+2024-01-08 21:15:10,485 2740 INFO localhost odoo.service.server: Initiating shutdown 
+2024-01-08 21:15:10,485 2740 INFO localhost odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-01-08 21:15:11,588 2740 INFO localhost odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2024-01-08 21:15:14,515 15700 INFO ? odoo: Odoo version 17.0-20240108 
+2024-01-08 21:15:14,515 15700 INFO ? odoo: Using configuration file at C:\odoo17\server\odoo.conf 
+2024-01-08 21:15:14,515 15700 INFO ? odoo: addons paths: ['C:\\odoo17\\server\\odoo\\addons', 'c:\\odoo17\\sessions\\addons\\17.0', 'c:\\odoo17\\server\\odoo\\addons'] 
+2024-01-08 21:15:14,515 15700 INFO ? odoo: database: openpg@localhost:5432 
+2024-01-08 21:15:14,808 15700 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\odoo17\thirdparty\wkhtmltopdf.exe 
+2024-01-08 21:15:14,961 15700 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-J2QUOPI.lan:8069 
+2024-01-08 21:15:14,967 15700 INFO ? odoo.modules.loading: init db 
+2024-01-08 21:15:15,788 15700 INFO localhost odoo.modules.loading: loading 1 modules... 
+2024-01-08 21:15:15,789 15700 INFO localhost odoo.modules.loading: Loading module base (1/1) 
+2024-01-08 21:15:15,802 15700 INFO localhost odoo.modules.registry: module base: creating or updating database tables 
+2024-01-08 21:15:16,103 15700 INFO localhost odoo.models: Prepare computation of ir.module.module.menus_by_module 
+2024-01-08 21:15:16,103 15700 INFO localhost odoo.models: Prepare computation of ir.module.module.reports_by_module 
+2024-01-08 21:15:16,103 15700 INFO localhost odoo.models: Prepare computation of ir.module.module.views_by_module 
+2024-01-08 21:15:16,216 15700 INFO localhost odoo.models: Prepare computation of res.partner.user_id 
+2024-01-08 21:15:16,216 15700 INFO localhost odoo.models: Prepare computation of res.partner.commercial_partner_id 
+2024-01-08 21:15:16,216 15700 INFO localhost odoo.models: Prepare computation of res.partner.complete_name 
+2024-01-08 21:15:16,216 15700 INFO localhost odoo.models: Prepare computation of res.partner.company_registry 
+2024-01-08 21:15:16,217 15700 INFO localhost odoo.models: Prepare computation of res.partner.commercial_company_name 
+2024-01-08 21:15:16,217 15700 INFO localhost odoo.models: Prepare computation of res.partner.partner_share 
+2024-01-08 21:15:16,261 15700 INFO localhost odoo.models: Prepare computation of res.currency.decimal_places 
+2024-01-08 21:15:16,289 15700 INFO localhost odoo.models: Prepare computation of res.company.uses_default_logo 
+2024-01-08 21:15:16,289 15700 INFO localhost odoo.models: Prepare computation of res.company.logo_web 
+2024-01-08 21:15:16,291 15700 INFO localhost odoo.models: Computing parent_path for table res_company... 
+2024-01-08 21:15:16,319 15700 INFO localhost odoo.models: Prepare computation of res.users.signature 
+2024-01-08 21:15:16,319 15700 INFO localhost odoo.models: Prepare computation of res.users.share 
+2024-01-08 21:15:17,556 15700 INFO localhost odoo.modules.loading: loading base/data/res_bank.xml 
+2024-01-08 21:15:17,560 15700 INFO localhost odoo.modules.loading: loading base/data/res.lang.csv 
+2024-01-08 21:15:17,591 15700 INFO localhost odoo.modules.loading: loading base/data/res_lang_data.xml 
+2024-01-08 21:15:17,609 15700 INFO localhost odoo.modules.loading: loading base/data/res_partner_data.xml 
+2024-01-08 21:15:17,652 15700 INFO localhost odoo.modules.loading: loading base/data/res_currency_data.xml 
+2024-01-08 21:15:17,981 15700 INFO localhost odoo.modules.loading: loading base/data/res_company_data.xml 
+2024-01-08 21:15:17,987 15700 INFO localhost odoo.modules.loading: loading base/data/res_users_data.xml 
+2024-01-08 21:15:18,582 15700 INFO localhost odoo.modules.loading: loading base/data/report_paperformat_data.xml 
+2024-01-08 21:15:18,587 15700 INFO localhost odoo.modules.loading: loading base/data/res_country_data.xml 
+2024-01-08 21:15:18,868 15700 INFO localhost odoo.modules.loading: loading base/data/ir_demo_data.xml 
+2024-01-08 21:15:18,874 15700 INFO localhost odoo.modules.loading: loading base/security/base_groups.xml 
+2024-01-08 21:15:19,016 15700 INFO localhost odoo.modules.loading: loading base/security/base_security.xml 
+2024-01-08 21:15:19,079 15700 INFO localhost odoo.modules.loading: loading base/views/base_menus.xml 
+2024-01-08 21:15:19,123 15700 INFO localhost odoo.modules.loading: loading base/views/decimal_precision_views.xml 
+2024-01-08 21:15:19,133 15700 INFO localhost odoo.modules.loading: loading base/views/res_config_views.xml 
+2024-01-08 21:15:19,138 15700 INFO localhost odoo.modules.loading: loading base/data/res.country.state.csv 
+2024-01-08 21:15:19,448 15700 INFO localhost odoo.modules.loading: loading base/views/ir_actions_views.xml 
+2024-01-08 21:15:19,522 15700 INFO localhost odoo.modules.loading: loading base/views/ir_asset_views.xml 
+2024-01-08 21:15:19,533 15700 INFO localhost odoo.modules.loading: loading base/views/ir_config_parameter_views.xml 
+2024-01-08 21:15:19,543 15700 INFO localhost odoo.modules.loading: loading base/views/ir_cron_views.xml 
+2024-01-08 21:15:19,560 15700 INFO localhost odoo.modules.loading: loading base/views/ir_cron_trigger_views.xml 
+2024-01-08 21:15:19,571 15700 INFO localhost odoo.modules.loading: loading base/views/ir_filters_views.xml 
+2024-01-08 21:15:19,581 15700 INFO localhost odoo.modules.loading: loading base/views/ir_mail_server_views.xml 
+2024-01-08 21:15:19,593 15700 INFO localhost odoo.modules.loading: loading base/views/ir_model_views.xml 
+2024-01-08 21:15:19,680 15700 INFO localhost odoo.modules.loading: loading base/views/ir_attachment_views.xml 
+2024-01-08 21:15:19,693 15700 INFO localhost odoo.modules.loading: loading base/views/ir_rule_views.xml 
+2024-01-08 21:15:19,708 15700 INFO localhost odoo.modules.loading: loading base/views/ir_sequence_views.xml 
+2024-01-08 21:15:19,720 15700 INFO localhost odoo.modules.loading: loading base/views/ir_ui_menu_views.xml 
+2024-01-08 21:15:19,732 15700 INFO localhost odoo.modules.loading: loading base/views/ir_ui_view_views.xml 
+2024-01-08 21:15:19,759 15700 INFO localhost odoo.modules.loading: loading base/views/ir_default_views.xml 
+2024-01-08 21:15:19,770 15700 INFO localhost odoo.modules.loading: loading base/data/ir_cron_data.xml 
+2024-01-08 21:15:19,779 15700 INFO localhost odoo.modules.loading: loading base/report/ir_model_report.xml 
+2024-01-08 21:15:19,783 15700 INFO localhost odoo.modules.loading: loading base/report/ir_model_templates.xml 
+2024-01-08 21:15:19,787 15700 INFO localhost odoo.modules.loading: loading base/views/ir_logging_views.xml 
+2024-01-08 21:15:19,798 15700 INFO localhost odoo.modules.loading: loading base/views/ir_qweb_widget_templates.xml 
+2024-01-08 21:15:19,805 15700 INFO localhost odoo.modules.loading: loading base/views/ir_module_views.xml 
+2024-01-08 21:15:19,836 15700 INFO localhost odoo.modules.loading: loading base/data/ir_module_category_data.xml 
+2024-01-08 21:15:19,879 15700 INFO localhost odoo.modules.loading: loading base/data/ir_module_module.xml 
+2024-01-08 21:15:19,919 15700 INFO localhost odoo.modules.loading: loading base/report/ir_module_reports.xml 
+2024-01-08 21:15:19,921 15700 INFO localhost odoo.modules.loading: loading base/report/ir_module_report_templates.xml 
+2024-01-08 21:15:19,925 15700 INFO localhost odoo.modules.loading: loading base/wizard/base_module_update_views.xml 
+2024-01-08 21:15:19,933 15700 INFO localhost odoo.modules.loading: loading base/wizard/base_language_install_views.xml 
+2024-01-08 21:15:19,940 15700 INFO localhost odoo.modules.loading: loading base/wizard/base_import_language_views.xml 
+2024-01-08 21:15:19,947 15700 INFO localhost odoo.modules.loading: loading base/wizard/base_module_upgrade_views.xml 
+2024-01-08 21:15:19,958 15700 INFO localhost odoo.modules.loading: loading base/wizard/base_module_uninstall_views.xml 
+2024-01-08 21:15:19,962 15700 INFO localhost odoo.modules.loading: loading base/wizard/base_export_language_views.xml 
+2024-01-08 21:15:19,969 15700 INFO localhost odoo.modules.loading: loading base/wizard/base_partner_merge_views.xml 
+2024-01-08 21:15:19,978 15700 INFO localhost odoo.modules.loading: loading base/data/ir_demo_failure_data.xml 
+2024-01-08 21:15:19,986 15700 INFO localhost odoo.modules.loading: loading base/views/ir_profile_views.xml 
+2024-01-08 21:15:19,999 15700 INFO localhost odoo.modules.loading: loading base/views/res_company_views.xml 
+2024-01-08 21:15:20,011 15700 INFO localhost odoo.modules.loading: loading base/views/res_lang_views.xml 
+2024-01-08 21:15:20,024 15700 INFO localhost odoo.modules.loading: loading base/views/res_partner_views.xml 
+2024-01-08 21:15:20,085 15700 INFO localhost odoo.modules.loading: loading base/views/res_bank_views.xml 
+2024-01-08 21:15:20,103 15700 INFO localhost odoo.modules.loading: loading base/views/res_country_views.xml 
+2024-01-08 21:15:20,126 15700 INFO localhost odoo.modules.loading: loading base/views/res_currency_views.xml 
+2024-01-08 21:15:20,146 15700 INFO localhost odoo.modules.loading: loading base/views/res_users_views.xml 
+2024-01-08 21:15:20,210 15700 INFO localhost odoo.modules.loading: loading base/views/res_users_identitycheck_views.xml 
+2024-01-08 21:15:20,215 15700 INFO localhost odoo.modules.loading: loading base/views/ir_property_views.xml 
+2024-01-08 21:15:20,226 15700 INFO localhost odoo.modules.loading: loading base/views/res_config_settings_views.xml 
+2024-01-08 21:15:20,230 15700 INFO localhost odoo.modules.loading: loading base/views/report_paperformat_views.xml 
+2024-01-08 21:15:20,245 15700 INFO localhost odoo.modules.loading: loading base/security/ir.model.access.csv 
+2024-01-08 21:15:20,312 15700 INFO localhost odoo.modules.loading: Module base: loading demo 
+2024-01-08 21:15:20,312 15700 INFO localhost odoo.modules.loading: loading base/data/res_users_demo.xml 
+2024-01-08 21:15:21,263 15700 INFO localhost odoo.modules.loading: loading base/data/res_partner_bank_demo.xml 
+2024-01-08 21:15:21,267 15700 INFO localhost odoo.modules.loading: loading base/data/res_currency_demo.xml 
+2024-01-08 21:15:21,270 15700 INFO localhost odoo.modules.loading: loading base/data/res_currency_rate_demo.xml 
+2024-01-08 21:15:21,427 15700 INFO localhost odoo.modules.loading: loading base/data/res_bank_demo.xml 
+2024-01-08 21:15:21,430 15700 INFO localhost odoo.modules.loading: loading base/data/res_partner_demo.xml 
+2024-01-08 21:15:21,568 15700 INFO localhost odoo.modules.loading: loading base/data/res_partner_image_demo.xml 
+2024-01-08 21:15:21,914 15700 INFO localhost odoo.modules.loading: Module base loaded in 6.13s, 9029 queries (+9029 other) 
+2024-01-08 21:15:21,914 15700 INFO localhost odoo.modules.loading: 1 modules loaded in 6.13s, 9029 queries (+9029 extra) 
+2024-01-08 21:15:21,926 15700 INFO localhost odoo.modules.loading: updating modules list 
+2024-01-08 21:15:21,928 15700 INFO localhost odoo.addons.base.models.ir_module: ALLOW access to module.update_list on [] to user __system__ #1 via n/a 
+2024-01-08 21:15:22,347 15700 INFO localhost odoo.modules.loading: loading 11 modules... 
+2024-01-08 21:15:22,347 15700 INFO localhost odoo.modules.loading: Loading module web (2/11) 
+2024-01-08 21:15:22,362 15700 INFO localhost odoo.modules.registry: module web: creating or updating database tables 
+2024-01-08 21:15:22,705 15700 INFO localhost odoo.modules.loading: loading web/security/ir.model.access.csv 
+2024-01-08 21:15:22,716 15700 INFO localhost odoo.modules.loading: loading web/views/webclient_templates.xml 
+2024-01-08 21:15:22,744 15700 INFO localhost odoo.modules.loading: loading web/views/report_templates.xml 
+2024-01-08 21:15:22,787 15700 INFO localhost odoo.modules.loading: loading web/views/base_document_layout_views.xml 
+2024-01-08 21:15:22,797 15700 INFO localhost odoo.modules.loading: loading web/views/partner_view.xml 
+2024-01-08 21:15:22,801 15700 INFO localhost odoo.modules.loading: loading web/views/speedscope_template.xml 
+2024-01-08 21:15:22,804 15700 INFO localhost odoo.modules.loading: loading web/views/neutralize_views.xml 
+2024-01-08 21:15:22,807 15700 INFO localhost odoo.modules.loading: loading web/data/ir_attachment.xml 
+2024-01-08 21:15:22,812 15700 INFO localhost odoo.modules.loading: loading web/data/report_layout.xml 
+2024-01-08 21:15:22,844 15700 INFO localhost odoo.modules.loading: Module web loaded in 0.50s, 941 queries (+941 other) 
+2024-01-08 21:15:22,844 15700 INFO localhost odoo.modules.loading: Loading module auth_totp (3/11) 
+2024-01-08 21:15:22,865 15700 INFO localhost odoo.modules.registry: module auth_totp: creating or updating database tables 
+2024-01-08 21:15:22,912 15700 INFO localhost odoo.modules.loading: loading auth_totp/security/security.xml 
+2024-01-08 21:15:22,927 15700 INFO localhost odoo.modules.loading: loading auth_totp/security/ir.model.access.csv 
+2024-01-08 21:15:22,933 15700 INFO localhost odoo.modules.loading: loading auth_totp/data/ir_action_data.xml 
+2024-01-08 21:15:22,938 15700 INFO localhost odoo.modules.loading: loading auth_totp/views/res_users_views.xml 
+2024-01-08 21:15:22,954 15700 INFO localhost odoo.modules.loading: loading auth_totp/views/templates.xml 
+2024-01-08 21:15:22,957 15700 INFO localhost odoo.modules.loading: loading auth_totp/wizard/auth_totp_wizard_views.xml 
+2024-01-08 21:15:22,969 15700 INFO localhost odoo.modules.loading: Module auth_totp loaded in 0.12s, 173 queries (+173 other) 
+2024-01-08 21:15:22,970 15700 INFO localhost odoo.modules.loading: Loading module base_import (4/11) 
+2024-01-08 21:15:22,986 15700 INFO localhost odoo.modules.registry: module base_import: creating or updating database tables 
+2024-01-08 21:15:23,331 15700 INFO localhost odoo.modules.loading: loading base_import/security/ir.model.access.csv 
+2024-01-08 21:15:23,344 15700 INFO localhost odoo.modules.loading: Module base_import loaded in 0.37s, 753 queries (+753 other) 
+2024-01-08 21:15:23,344 15700 INFO localhost odoo.modules.loading: Loading module base_import_module (5/11) 
+2024-01-08 21:15:23,358 15700 INFO localhost odoo.modules.registry: module base_import_module: creating or updating database tables 
+2024-01-08 21:15:23,404 15700 INFO localhost odoo.modules.loading: loading base_import_module/security/ir.model.access.csv 
+2024-01-08 21:15:23,409 15700 INFO localhost odoo.modules.loading: loading base_import_module/views/base_import_module_view.xml 
+2024-01-08 21:15:23,446 15700 INFO localhost odoo.modules.loading: loading base_import_module/views/ir_module_views.xml 
+2024-01-08 21:15:23,472 15700 INFO localhost odoo.modules.loading: Module base_import_module loaded in 0.13s, 142 queries (+142 other) 
+2024-01-08 21:15:23,472 15700 INFO localhost odoo.modules.loading: Loading module base_setup (6/11) 
+2024-01-08 21:15:23,485 15700 INFO localhost odoo.modules.registry: module base_setup: creating or updating database tables 
+2024-01-08 21:15:23,522 15700 INFO localhost odoo.modules.loading: loading base_setup/data/base_setup_data.xml 
+2024-01-08 21:15:23,525 15700 INFO localhost odoo.modules.loading: loading base_setup/views/res_config_settings_views.xml 
+2024-01-08 21:15:23,544 15700 INFO localhost odoo.modules.loading: loading base_setup/views/res_partner_views.xml 
+2024-01-08 21:15:23,556 15700 INFO localhost odoo.modules.loading: Module base_setup loaded in 0.08s, 137 queries (+137 other) 
+2024-01-08 21:15:23,556 15700 INFO localhost odoo.modules.loading: Loading module bus (7/11) 
+2024-01-08 21:15:23,577 15700 INFO localhost odoo.modules.registry: module bus: creating or updating database tables 
+2024-01-08 21:15:23,635 15700 INFO localhost odoo.modules.loading: loading bus/security/ir.model.access.csv 
+2024-01-08 21:15:23,648 15700 INFO localhost odoo.modules.loading: Module bus loaded in 0.09s, 107 queries (+107 other) 
+2024-01-08 21:15:23,648 15700 INFO localhost odoo.modules.loading: Loading module web_tour (8/11) 
+2024-01-08 21:15:23,660 15700 INFO localhost odoo.modules.registry: module web_tour: creating or updating database tables 
+2024-01-08 21:15:23,683 15700 INFO localhost odoo.modules.loading: loading web_tour/security/ir.model.access.csv 
+2024-01-08 21:15:23,690 15700 INFO localhost odoo.modules.loading: loading web_tour/security/ir.rule.csv 
+2024-01-08 21:15:23,695 15700 INFO localhost odoo.modules.loading: loading web_tour/views/tour_views.xml 
+2024-01-08 21:15:23,717 15700 INFO localhost odoo.modules.loading: Module web_tour loaded in 0.07s, 103 queries (+103 other) 
+2024-01-08 21:15:23,717 15700 INFO localhost odoo.modules.loading: Loading module iap (9/11) 
+2024-01-08 21:15:23,731 15700 INFO localhost odoo.modules.registry: module iap: creating or updating database tables 
+2024-01-08 21:15:23,787 15700 INFO localhost odoo.modules.loading: loading iap/security/ir.model.access.csv 
+2024-01-08 21:15:23,794 15700 INFO localhost odoo.modules.loading: loading iap/security/ir_rule.xml 
+2024-01-08 21:15:23,799 15700 INFO localhost odoo.modules.loading: loading iap/views/iap_views.xml 
+2024-01-08 21:15:23,812 15700 INFO localhost odoo.modules.loading: loading iap/views/res_config_settings.xml 
+2024-01-08 21:15:23,827 15700 INFO localhost odoo.modules.loading: Module iap loaded in 0.11s, 150 queries (+150 other) 
+2024-01-08 21:15:23,827 15700 INFO localhost odoo.modules.loading: Loading module web_editor (10/11) 
+2024-01-08 21:15:23,859 15700 INFO localhost odoo.modules.registry: module web_editor: creating or updating database tables 
+2024-01-08 21:15:24,216 15700 INFO localhost odoo.modules.loading: loading web_editor/security/ir.model.access.csv 
+2024-01-08 21:15:24,223 15700 INFO localhost odoo.modules.loading: loading web_editor/data/editor_assets.xml 
+2024-01-08 21:15:24,226 15700 INFO localhost odoo.modules.loading: loading web_editor/views/editor.xml 
+2024-01-08 21:15:24,234 15700 INFO localhost odoo.modules.loading: loading web_editor/views/snippets.xml 
+2024-01-08 21:15:24,262 15700 INFO localhost odoo.modules.loading: Module web_editor loaded in 0.44s, 859 queries (+859 other) 
+2024-01-08 21:15:24,262 15700 INFO localhost odoo.modules.loading: Loading module web_unsplash (11/11) 
+2024-01-08 21:15:24,277 15700 INFO localhost odoo.modules.registry: module web_unsplash: creating or updating database tables 
+2024-01-08 21:15:24,307 15700 INFO localhost odoo.modules.loading: loading web_unsplash/views/res_config_settings_view.xml 
+2024-01-08 21:15:24,324 15700 INFO localhost odoo.modules.loading: Module web_unsplash loaded in 0.06s, 93 queries (+93 other) 
+2024-01-08 21:15:24,324 15700 INFO localhost odoo.modules.loading: 11 modules loaded in 1.98s, 3458 queries (+3458 extra) 
+2024-01-08 21:15:24,506 15700 INFO localhost odoo.modules.loading: Modules loaded. 
+2024-01-08 21:15:24,508 15700 INFO localhost odoo.modules.registry: Registry loaded in 9.551s 
+2024-01-08 21:15:24,568 15700 INFO localhost odoo.addons.base.models.ir_http: Generating routing map for key None 
+2024-01-08 21:15:24,895 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:15:24] "GET /web/database/selector HTTP/1.1" 200 - 10 0.005 5.701
+2024-01-08 21:15:24,942 15700 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:15:24] "GET /web/static/img/favicon.ico HTTP/1.1" 200 - 0 0.000 0.001
+2024-01-08 21:15:26,582 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:15:26] "GET /web?db=localhost HTTP/1.1" 303 - 4 0.001 0.005
+2024-01-08 21:15:26,998 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:15:26] "GET /web/login?db=localhost HTTP/1.1" 200 - 52 0.018 0.102
+2024-01-08 21:15:27,361 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:15:27] "GET /web/binary/company_logo?dbname=localhost HTTP/1.1" 200 - 5 0.004 0.027
+2024-01-08 21:15:27,591 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:15:27] "GET /web/webclient/translations/1704748527391 HTTP/1.1" 200 - 7 0.001 0.008
+2024-01-08 21:15:29,743 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:15:29] "GET /web/database/manager HTTP/1.1" 200 - 6 0.002 0.312
+2024-01-08 21:15:53,701 15700 INFO None odoo.service.db: Create database `cinemaDB`. 
+2024-01-08 21:15:54,482 15700 INFO cinemaDB odoo.modules.loading: loading 1 modules... 
+2024-01-08 21:15:54,482 15700 INFO cinemaDB odoo.modules.loading: Loading module base (1/1) 
+2024-01-08 21:15:54,496 15700 INFO cinemaDB odoo.modules.registry: module base: creating or updating database tables 
+2024-01-08 21:15:54,806 15700 INFO cinemaDB odoo.models: Prepare computation of ir.module.module.menus_by_module 
+2024-01-08 21:15:54,806 15700 INFO cinemaDB odoo.models: Prepare computation of ir.module.module.reports_by_module 
+2024-01-08 21:15:54,806 15700 INFO cinemaDB odoo.models: Prepare computation of ir.module.module.views_by_module 
+2024-01-08 21:15:54,953 15700 INFO cinemaDB odoo.models: Prepare computation of res.partner.user_id 
+2024-01-08 21:15:54,954 15700 INFO cinemaDB odoo.models: Prepare computation of res.partner.commercial_partner_id 
+2024-01-08 21:15:54,954 15700 INFO cinemaDB odoo.models: Prepare computation of res.partner.complete_name 
+2024-01-08 21:15:54,954 15700 INFO cinemaDB odoo.models: Prepare computation of res.partner.company_registry 
+2024-01-08 21:15:54,954 15700 INFO cinemaDB odoo.models: Prepare computation of res.partner.commercial_company_name 
+2024-01-08 21:15:54,954 15700 INFO cinemaDB odoo.models: Prepare computation of res.partner.partner_share 
+2024-01-08 21:15:54,994 15700 INFO cinemaDB odoo.models: Prepare computation of res.currency.decimal_places 
+2024-01-08 21:15:55,022 15700 INFO cinemaDB odoo.models: Prepare computation of res.company.uses_default_logo 
+2024-01-08 21:15:55,022 15700 INFO cinemaDB odoo.models: Prepare computation of res.company.logo_web 
+2024-01-08 21:15:55,024 15700 INFO cinemaDB odoo.models: Computing parent_path for table res_company... 
+2024-01-08 21:15:55,047 15700 INFO cinemaDB odoo.models: Prepare computation of res.users.signature 
+2024-01-08 21:15:55,048 15700 INFO cinemaDB odoo.models: Prepare computation of res.users.share 
+2024-01-08 21:15:56,198 15700 INFO cinemaDB odoo.modules.loading: loading base/data/res_bank.xml 
+2024-01-08 21:15:56,202 15700 INFO cinemaDB odoo.modules.loading: loading base/data/res.lang.csv 
+2024-01-08 21:15:56,232 15700 INFO cinemaDB odoo.modules.loading: loading base/data/res_lang_data.xml 
+2024-01-08 21:15:56,250 15700 INFO cinemaDB odoo.modules.loading: loading base/data/res_partner_data.xml 
+2024-01-08 21:15:56,290 15700 INFO cinemaDB odoo.modules.loading: loading base/data/res_currency_data.xml 
+2024-01-08 21:15:56,598 15700 INFO cinemaDB odoo.modules.loading: loading base/data/res_company_data.xml 
+2024-01-08 21:15:56,603 15700 INFO cinemaDB odoo.modules.loading: loading base/data/res_users_data.xml 
+2024-01-08 21:15:57,188 15700 INFO cinemaDB odoo.modules.loading: loading base/data/report_paperformat_data.xml 
+2024-01-08 21:15:57,193 15700 INFO cinemaDB odoo.modules.loading: loading base/data/res_country_data.xml 
+2024-01-08 21:15:57,453 15700 INFO cinemaDB odoo.modules.loading: loading base/data/ir_demo_data.xml 
+2024-01-08 21:15:57,459 15700 INFO cinemaDB odoo.modules.loading: loading base/security/base_groups.xml 
+2024-01-08 21:15:57,602 15700 INFO cinemaDB odoo.modules.loading: loading base/security/base_security.xml 
+2024-01-08 21:15:57,663 15700 INFO cinemaDB odoo.modules.loading: loading base/views/base_menus.xml 
+2024-01-08 21:15:57,707 15700 INFO cinemaDB odoo.modules.loading: loading base/views/decimal_precision_views.xml 
+2024-01-08 21:15:57,716 15700 INFO cinemaDB odoo.modules.loading: loading base/views/res_config_views.xml 
+2024-01-08 21:15:57,721 15700 INFO cinemaDB odoo.modules.loading: loading base/data/res.country.state.csv 
+2024-01-08 21:15:58,020 15700 INFO cinemaDB odoo.modules.loading: loading base/views/ir_actions_views.xml 
+2024-01-08 21:15:58,094 15700 INFO cinemaDB odoo.modules.loading: loading base/views/ir_asset_views.xml 
+2024-01-08 21:15:58,105 15700 INFO cinemaDB odoo.modules.loading: loading base/views/ir_config_parameter_views.xml 
+2024-01-08 21:15:58,116 15700 INFO cinemaDB odoo.modules.loading: loading base/views/ir_cron_views.xml 
+2024-01-08 21:15:58,131 15700 INFO cinemaDB odoo.modules.loading: loading base/views/ir_cron_trigger_views.xml 
+2024-01-08 21:15:58,142 15700 INFO cinemaDB odoo.modules.loading: loading base/views/ir_filters_views.xml 
+2024-01-08 21:15:58,153 15700 INFO cinemaDB odoo.modules.loading: loading base/views/ir_mail_server_views.xml 
+2024-01-08 21:15:58,165 15700 INFO cinemaDB odoo.modules.loading: loading base/views/ir_model_views.xml 
+2024-01-08 21:15:58,248 15700 INFO cinemaDB odoo.modules.loading: loading base/views/ir_attachment_views.xml 
+2024-01-08 21:15:58,261 15700 INFO cinemaDB odoo.modules.loading: loading base/views/ir_rule_views.xml 
+2024-01-08 21:15:58,276 15700 INFO cinemaDB odoo.modules.loading: loading base/views/ir_sequence_views.xml 
+2024-01-08 21:15:58,287 15700 INFO cinemaDB odoo.modules.loading: loading base/views/ir_ui_menu_views.xml 
+2024-01-08 21:15:58,300 15700 INFO cinemaDB odoo.modules.loading: loading base/views/ir_ui_view_views.xml 
+2024-01-08 21:15:58,326 15700 INFO cinemaDB odoo.modules.loading: loading base/views/ir_default_views.xml 
+2024-01-08 21:15:58,337 15700 INFO cinemaDB odoo.modules.loading: loading base/data/ir_cron_data.xml 
+2024-01-08 21:15:58,346 15700 INFO cinemaDB odoo.modules.loading: loading base/report/ir_model_report.xml 
+2024-01-08 21:15:58,349 15700 INFO cinemaDB odoo.modules.loading: loading base/report/ir_model_templates.xml 
+2024-01-08 21:15:58,353 15700 INFO cinemaDB odoo.modules.loading: loading base/views/ir_logging_views.xml 
+2024-01-08 21:15:58,364 15700 INFO cinemaDB odoo.modules.loading: loading base/views/ir_qweb_widget_templates.xml 
+2024-01-08 21:15:58,372 15700 INFO cinemaDB odoo.modules.loading: loading base/views/ir_module_views.xml 
+2024-01-08 21:15:58,401 15700 INFO cinemaDB odoo.modules.loading: loading base/data/ir_module_category_data.xml 
+2024-01-08 21:15:58,444 15700 INFO cinemaDB odoo.modules.loading: loading base/data/ir_module_module.xml 
+2024-01-08 21:15:58,485 15700 INFO cinemaDB odoo.modules.loading: loading base/report/ir_module_reports.xml 
+2024-01-08 21:15:58,487 15700 INFO cinemaDB odoo.modules.loading: loading base/report/ir_module_report_templates.xml 
+2024-01-08 21:15:58,491 15700 INFO cinemaDB odoo.modules.loading: loading base/wizard/base_module_update_views.xml 
+2024-01-08 21:15:58,497 15700 INFO cinemaDB odoo.modules.loading: loading base/wizard/base_language_install_views.xml 
+2024-01-08 21:15:58,505 15700 INFO cinemaDB odoo.modules.loading: loading base/wizard/base_import_language_views.xml 
+2024-01-08 21:15:58,511 15700 INFO cinemaDB odoo.modules.loading: loading base/wizard/base_module_upgrade_views.xml 
+2024-01-08 21:15:58,522 15700 INFO cinemaDB odoo.modules.loading: loading base/wizard/base_module_uninstall_views.xml 
+2024-01-08 21:15:58,526 15700 INFO cinemaDB odoo.modules.loading: loading base/wizard/base_export_language_views.xml 
+2024-01-08 21:15:58,534 15700 INFO cinemaDB odoo.modules.loading: loading base/wizard/base_partner_merge_views.xml 
+2024-01-08 21:15:58,543 15700 INFO cinemaDB odoo.modules.loading: loading base/data/ir_demo_failure_data.xml 
+2024-01-08 21:15:58,551 15700 INFO cinemaDB odoo.modules.loading: loading base/views/ir_profile_views.xml 
+2024-01-08 21:15:58,564 15700 INFO cinemaDB odoo.modules.loading: loading base/views/res_company_views.xml 
+2024-01-08 21:15:58,577 15700 INFO cinemaDB odoo.modules.loading: loading base/views/res_lang_views.xml 
+2024-01-08 21:15:58,590 15700 INFO cinemaDB odoo.modules.loading: loading base/views/res_partner_views.xml 
+2024-01-08 21:15:58,650 15700 INFO cinemaDB odoo.modules.loading: loading base/views/res_bank_views.xml 
+2024-01-08 21:15:58,667 15700 INFO cinemaDB odoo.modules.loading: loading base/views/res_country_views.xml 
+2024-01-08 21:15:58,690 15700 INFO cinemaDB odoo.modules.loading: loading base/views/res_currency_views.xml 
+2024-01-08 21:15:58,711 15700 INFO cinemaDB odoo.modules.loading: loading base/views/res_users_views.xml 
+2024-01-08 21:15:58,775 15700 INFO cinemaDB odoo.modules.loading: loading base/views/res_users_identitycheck_views.xml 
+2024-01-08 21:15:58,780 15700 INFO cinemaDB odoo.modules.loading: loading base/views/ir_property_views.xml 
+2024-01-08 21:15:58,791 15700 INFO cinemaDB odoo.modules.loading: loading base/views/res_config_settings_views.xml 
+2024-01-08 21:15:58,796 15700 INFO cinemaDB odoo.modules.loading: loading base/views/report_paperformat_views.xml 
+2024-01-08 21:15:58,812 15700 INFO cinemaDB odoo.modules.loading: loading base/security/ir.model.access.csv 
+2024-01-08 21:15:58,878 15700 INFO cinemaDB odoo.modules.loading: Module base: loading demo 
+2024-01-08 21:15:58,878 15700 INFO cinemaDB odoo.modules.loading: loading base/data/res_users_demo.xml 
+2024-01-08 21:15:59,831 15700 INFO cinemaDB odoo.modules.loading: loading base/data/res_partner_bank_demo.xml 
+2024-01-08 21:15:59,835 15700 INFO cinemaDB odoo.modules.loading: loading base/data/res_currency_demo.xml 
+2024-01-08 21:15:59,839 15700 INFO cinemaDB odoo.modules.loading: loading base/data/res_currency_rate_demo.xml 
+2024-01-08 21:15:59,988 15700 INFO cinemaDB odoo.modules.loading: loading base/data/res_bank_demo.xml 
+2024-01-08 21:15:59,991 15700 INFO cinemaDB odoo.modules.loading: loading base/data/res_partner_demo.xml 
+2024-01-08 21:16:00,124 15700 INFO cinemaDB odoo.modules.loading: loading base/data/res_partner_image_demo.xml 
+2024-01-08 21:16:00,460 15700 INFO cinemaDB odoo.modules.loading: Module base loaded in 5.98s, 9029 queries (+9029 other) 
+2024-01-08 21:16:00,460 15700 INFO cinemaDB odoo.modules.loading: 1 modules loaded in 5.98s, 9029 queries (+9029 extra) 
+2024-01-08 21:16:00,484 15700 INFO cinemaDB odoo.modules.loading: updating modules list 
+2024-01-08 21:16:00,485 15700 INFO cinemaDB odoo.addons.base.models.ir_module: ALLOW access to module.update_list on [] to user __system__ #1 via n/a 
+2024-01-08 21:16:00,890 15700 INFO cinemaDB odoo.modules.loading: loading 11 modules... 
+2024-01-08 21:16:00,890 15700 INFO cinemaDB odoo.modules.loading: Loading module web (2/11) 
+2024-01-08 21:16:00,903 15700 INFO cinemaDB odoo.modules.registry: module web: creating or updating database tables 
+2024-01-08 21:16:01,241 15700 INFO cinemaDB odoo.modules.loading: loading web/security/ir.model.access.csv 
+2024-01-08 21:16:01,250 15700 INFO cinemaDB odoo.modules.loading: loading web/views/webclient_templates.xml 
+2024-01-08 21:16:01,279 15700 INFO cinemaDB odoo.modules.loading: loading web/views/report_templates.xml 
+2024-01-08 21:16:01,321 15700 INFO cinemaDB odoo.modules.loading: loading web/views/base_document_layout_views.xml 
+2024-01-08 21:16:01,330 15700 INFO cinemaDB odoo.modules.loading: loading web/views/partner_view.xml 
+2024-01-08 21:16:01,334 15700 INFO cinemaDB odoo.modules.loading: loading web/views/speedscope_template.xml 
+2024-01-08 21:16:01,337 15700 INFO cinemaDB odoo.modules.loading: loading web/views/neutralize_views.xml 
+2024-01-08 21:16:01,340 15700 INFO cinemaDB odoo.modules.loading: loading web/data/ir_attachment.xml 
+2024-01-08 21:16:01,345 15700 INFO cinemaDB odoo.modules.loading: loading web/data/report_layout.xml 
+2024-01-08 21:16:01,374 15700 INFO cinemaDB odoo.modules.loading: Module web loaded in 0.48s, 941 queries (+941 other) 
+2024-01-08 21:16:01,374 15700 INFO cinemaDB odoo.modules.loading: Loading module auth_totp (3/11) 
+2024-01-08 21:16:01,384 15700 INFO cinemaDB odoo.modules.registry: module auth_totp: creating or updating database tables 
+2024-01-08 21:16:01,430 15700 INFO cinemaDB odoo.modules.loading: loading auth_totp/security/security.xml 
+2024-01-08 21:16:01,444 15700 INFO cinemaDB odoo.modules.loading: loading auth_totp/security/ir.model.access.csv 
+2024-01-08 21:16:01,450 15700 INFO cinemaDB odoo.modules.loading: loading auth_totp/data/ir_action_data.xml 
+2024-01-08 21:16:01,454 15700 INFO cinemaDB odoo.modules.loading: loading auth_totp/views/res_users_views.xml 
+2024-01-08 21:16:01,470 15700 INFO cinemaDB odoo.modules.loading: loading auth_totp/views/templates.xml 
+2024-01-08 21:16:01,473 15700 INFO cinemaDB odoo.modules.loading: loading auth_totp/wizard/auth_totp_wizard_views.xml 
+2024-01-08 21:16:01,485 15700 INFO cinemaDB odoo.modules.loading: Module auth_totp loaded in 0.11s, 173 queries (+173 other) 
+2024-01-08 21:16:01,485 15700 INFO cinemaDB odoo.modules.loading: Loading module base_import (4/11) 
+2024-01-08 21:16:01,498 15700 INFO cinemaDB odoo.modules.registry: module base_import: creating or updating database tables 
+2024-01-08 21:16:01,831 15700 INFO cinemaDB odoo.modules.loading: loading base_import/security/ir.model.access.csv 
+2024-01-08 21:16:01,843 15700 INFO cinemaDB odoo.modules.loading: Module base_import loaded in 0.36s, 753 queries (+753 other) 
+2024-01-08 21:16:01,843 15700 INFO cinemaDB odoo.modules.loading: Loading module base_import_module (5/11) 
+2024-01-08 21:16:01,854 15700 INFO cinemaDB odoo.modules.registry: module base_import_module: creating or updating database tables 
+2024-01-08 21:16:01,900 15700 INFO cinemaDB odoo.modules.loading: loading base_import_module/security/ir.model.access.csv 
+2024-01-08 21:16:01,906 15700 INFO cinemaDB odoo.modules.loading: loading base_import_module/views/base_import_module_view.xml 
+2024-01-08 21:16:01,916 15700 INFO cinemaDB odoo.modules.loading: loading base_import_module/views/ir_module_views.xml 
+2024-01-08 21:16:01,943 15700 INFO cinemaDB odoo.modules.loading: Module base_import_module loaded in 0.10s, 142 queries (+142 other) 
+2024-01-08 21:16:01,943 15700 INFO cinemaDB odoo.modules.loading: Loading module base_setup (6/11) 
+2024-01-08 21:16:01,953 15700 INFO cinemaDB odoo.modules.registry: module base_setup: creating or updating database tables 
+2024-01-08 21:16:01,986 15700 INFO cinemaDB odoo.modules.loading: loading base_setup/data/base_setup_data.xml 
+2024-01-08 21:16:01,989 15700 INFO cinemaDB odoo.modules.loading: loading base_setup/views/res_config_settings_views.xml 
+2024-01-08 21:16:02,007 15700 INFO cinemaDB odoo.modules.loading: loading base_setup/views/res_partner_views.xml 
+2024-01-08 21:16:02,019 15700 INFO cinemaDB odoo.modules.loading: Module base_setup loaded in 0.08s, 137 queries (+137 other) 
+2024-01-08 21:16:02,019 15700 INFO cinemaDB odoo.modules.loading: Loading module bus (7/11) 
+2024-01-08 21:16:02,029 15700 INFO cinemaDB odoo.modules.registry: module bus: creating or updating database tables 
+2024-01-08 21:16:02,113 15700 INFO cinemaDB odoo.modules.loading: loading bus/security/ir.model.access.csv 
+2024-01-08 21:16:02,126 15700 INFO cinemaDB odoo.modules.loading: Module bus loaded in 0.11s, 107 queries (+107 other) 
+2024-01-08 21:16:02,126 15700 INFO cinemaDB odoo.modules.loading: Loading module web_tour (8/11) 
+2024-01-08 21:16:02,136 15700 INFO cinemaDB odoo.modules.registry: module web_tour: creating or updating database tables 
+2024-01-08 21:16:02,158 15700 INFO cinemaDB odoo.modules.loading: loading web_tour/security/ir.model.access.csv 
+2024-01-08 21:16:02,164 15700 INFO cinemaDB odoo.modules.loading: loading web_tour/security/ir.rule.csv 
+2024-01-08 21:16:02,169 15700 INFO cinemaDB odoo.modules.loading: loading web_tour/views/tour_views.xml 
+2024-01-08 21:16:02,190 15700 INFO cinemaDB odoo.modules.loading: Module web_tour loaded in 0.06s, 103 queries (+103 other) 
+2024-01-08 21:16:02,190 15700 INFO cinemaDB odoo.modules.loading: Loading module iap (9/11) 
+2024-01-08 21:16:02,199 15700 INFO cinemaDB odoo.modules.registry: module iap: creating or updating database tables 
+2024-01-08 21:16:02,251 15700 INFO cinemaDB odoo.modules.loading: loading iap/security/ir.model.access.csv 
+2024-01-08 21:16:02,258 15700 INFO cinemaDB odoo.modules.loading: loading iap/security/ir_rule.xml 
+2024-01-08 21:16:02,262 15700 INFO cinemaDB odoo.modules.loading: loading iap/views/iap_views.xml 
+2024-01-08 21:16:02,275 15700 INFO cinemaDB odoo.modules.loading: loading iap/views/res_config_settings.xml 
+2024-01-08 21:16:02,289 15700 INFO cinemaDB odoo.modules.loading: Module iap loaded in 0.10s, 150 queries (+150 other) 
+2024-01-08 21:16:02,289 15700 INFO cinemaDB odoo.modules.loading: Loading module web_editor (10/11) 
+2024-01-08 21:16:02,306 15700 INFO cinemaDB odoo.modules.registry: module web_editor: creating or updating database tables 
+2024-01-08 21:16:02,669 15700 INFO cinemaDB odoo.modules.loading: loading web_editor/security/ir.model.access.csv 
+2024-01-08 21:16:02,676 15700 INFO cinemaDB odoo.modules.loading: loading web_editor/data/editor_assets.xml 
+2024-01-08 21:16:02,679 15700 INFO cinemaDB odoo.modules.loading: loading web_editor/views/editor.xml 
+2024-01-08 21:16:02,687 15700 INFO cinemaDB odoo.modules.loading: loading web_editor/views/snippets.xml 
+2024-01-08 21:16:02,714 15700 INFO cinemaDB odoo.modules.loading: Module web_editor loaded in 0.43s, 859 queries (+859 other) 
+2024-01-08 21:16:02,714 15700 INFO cinemaDB odoo.modules.loading: Loading module web_unsplash (11/11) 
+2024-01-08 21:16:02,725 15700 INFO cinemaDB odoo.modules.registry: module web_unsplash: creating or updating database tables 
+2024-01-08 21:16:02,755 15700 INFO cinemaDB odoo.modules.loading: loading web_unsplash/views/res_config_settings_view.xml 
+2024-01-08 21:16:02,773 15700 INFO cinemaDB odoo.modules.loading: Module web_unsplash loaded in 0.06s, 93 queries (+93 other) 
+2024-01-08 21:16:02,773 15700 INFO cinemaDB odoo.modules.loading: 11 modules loaded in 1.88s, 3458 queries (+3458 extra) 
+2024-01-08 21:16:02,936 15700 INFO cinemaDB odoo.modules.loading: Modules loaded. 
+2024-01-08 21:16:02,938 15700 INFO cinemaDB odoo.modules.registry: Registry loaded in 8.467s 
+2024-01-08 21:16:03,556 15700 INFO cinemaDB odoo.addons.base.models.res_users: Login successful for db:cinemaDB login:admin from 127.0.0.1 
+2024-01-08 21:16:03,563 15700 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:16:03] "POST /web/database/create HTTP/1.1" 303 - 17874 5.097 5.328
+2024-01-08 21:16:03,571 15700 WARNING ? odoo.http: Logged into database 'cinemaDB', but dbfilter rejects it; logging session out. 
+2024-01-08 21:16:03,575 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:16:03] "GET /web HTTP/1.1" 303 - 4 0.002 0.006
+2024-01-08 21:16:03,896 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:16:03] "GET /web/login HTTP/1.1" 200 - 6 0.004 0.005
+2024-01-08 21:16:04,159 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:16:04] "GET /web/binary/company_logo HTTP/1.1" 200 - 5 0.002 0.003
+2024-01-08 21:16:04,223 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:16:04] "GET /web/webclient/translations/1704748564213 HTTP/1.1" 200 - 6 0.002 0.005
+2024-01-08 21:16:17,844 15700 INFO localhost odoo.addons.base.models.res_users: Login failed for db:localhost login:admin from 127.0.0.1 
+2024-01-08 21:16:17,846 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:16:17] "POST /web/login HTTP/1.1" 200 - 11 0.007 0.283
+2024-01-08 21:16:17,865 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:16:17] "GET /web/binary/company_logo HTTP/1.1" 304 - 5 0.002 0.003
+2024-01-08 21:16:17,908 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:16:17] "GET /web/webclient/translations/1704748577900 HTTP/1.1" 200 - 6 0.002 0.003
+2024-01-08 21:16:20,207 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:16:20] "GET /web/login HTTP/1.1" 200 - 6 0.003 0.003
+2024-01-08 21:16:20,263 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:16:20] "GET /web/webclient/translations/1704748580255 HTTP/1.1" 200 - 6 0.001 0.004
+2024-01-08 21:16:22,702 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:16:22] "GET /web/database/manager HTTP/1.1" 200 - 6 0.004 0.312
+2024-01-08 21:16:24,584 15700 INFO localhost odoo.addons.base.models.ir_cron: Starting job `Base: Auto-vacuum internal data`. 
+2024-01-08 21:16:24,613 15700 INFO localhost odoo.addons.base.models.ir_attachment: filestore gc 55 checked, 0 removed 
+2024-01-08 21:16:24,639 15700 INFO localhost odoo.addons.base.models.res_users: GC'd 0 user log entries 
+2024-01-08 21:16:24,654 15700 INFO localhost odoo.addons.auth_totp.models.auth_totp: GC'd 0 totp devices entries 
+2024-01-08 21:16:24,663 15700 INFO localhost odoo.addons.base.models.ir_cron: Job `Base: Auto-vacuum internal data` done. 
+2024-01-08 21:16:24,667 15700 INFO localhost odoo.addons.base.models.ir_cron: Starting job `Base: Portal Users Deletion`. 
+2024-01-08 21:16:24,670 15700 INFO localhost odoo.addons.base.models.ir_cron: Job `Base: Portal Users Deletion` done. 
+2024-01-08 21:16:24,842 15700 INFO cinemaDB odoo.addons.base.models.ir_cron: Starting job `Base: Auto-vacuum internal data`. 
+2024-01-08 21:16:24,872 15700 INFO cinemaDB odoo.addons.base.models.ir_attachment: filestore gc 55 checked, 0 removed 
+2024-01-08 21:16:24,898 15700 INFO cinemaDB odoo.addons.base.models.res_users: GC'd 0 user log entries 
+2024-01-08 21:16:24,914 15700 INFO cinemaDB odoo.addons.auth_totp.models.auth_totp: GC'd 0 totp devices entries 
+2024-01-08 21:16:24,923 15700 INFO cinemaDB odoo.addons.base.models.ir_cron: Job `Base: Auto-vacuum internal data` done. 
+2024-01-08 21:16:24,926 15700 INFO cinemaDB odoo.addons.base.models.ir_cron: Starting job `Base: Portal Users Deletion`. 
+2024-01-08 21:16:24,929 15700 INFO cinemaDB odoo.addons.base.models.ir_cron: Job `Base: Portal Users Deletion` done. 
+2024-01-08 21:16:55,501 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:16:55] "GET /web?db=localhost HTTP/1.1" 303 - 4 0.001 0.003
+2024-01-08 21:16:55,807 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:16:55] "GET /web/login?db=localhost HTTP/1.1" 200 - 6 0.004 0.000
+2024-01-08 21:16:56,136 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:16:56] "GET /web/binary/company_logo?dbname=localhost HTTP/1.1" 304 - 5 0.003 0.001
+2024-01-08 21:16:56,402 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:16:56] "GET /web/webclient/translations/1704748616172 HTTP/1.1" 200 - 6 0.000 0.005
+2024-01-08 21:17:03,280 15700 INFO localhost odoo.addons.base.models.res_users: Login failed for db:localhost login:admin from 127.0.0.1 
+2024-01-08 21:17:03,282 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:17:03] "POST /web/login HTTP/1.1" 200 - 8 0.001 0.283
+2024-01-08 21:17:03,304 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:17:03] "GET /web/binary/company_logo HTTP/1.1" 304 - 5 0.002 0.002
+2024-01-08 21:17:03,676 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:17:03] "GET /web/webclient/translations/1704748623361 HTTP/1.1" 200 - 6 0.001 0.004
+2024-01-08 21:17:18,724 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:17:18] "GET /web HTTP/1.1" 303 - 4 0.000 0.005
+2024-01-08 21:17:19,039 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:17:19] "GET /web/login HTTP/1.1" 200 - 6 0.001 0.005
+2024-01-08 21:17:19,304 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:17:19] "GET /web/binary/company_logo HTTP/1.1" 304 - 5 0.003 0.001
+2024-01-08 21:17:19,367 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:17:19] "GET /web/webclient/translations/1704748639339 HTTP/1.1" 200 - 6 0.002 0.003
+2024-01-08 21:17:22,970 15700 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:17:22] "GET /web/database/selector HTTP/1.1" 200 - 6 0.002 0.310
+2024-01-08 21:17:27,585 15700 INFO localhost odoo.service.server: Initiating shutdown 
+2024-01-08 21:17:27,585 15700 INFO localhost odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-01-08 21:17:28,656 15700 INFO localhost odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 8 connections  
+2024-01-08 21:17:31,690 3844 INFO ? odoo: Odoo version 17.0-20240108 
+2024-01-08 21:17:31,690 3844 INFO ? odoo: Using configuration file at C:\odoo17\server\odoo.conf 
+2024-01-08 21:17:31,690 3844 INFO ? odoo: addons paths: ['C:\\odoo17\\server\\odoo\\addons', 'c:\\odoo17\\sessions\\addons\\17.0', 'c:\\odoo17\\server\\odoo\\addons'] 
+2024-01-08 21:17:31,691 3844 INFO ? odoo: database: openpg@localhost:5432 
+2024-01-08 21:17:31,824 3844 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\odoo17\thirdparty\wkhtmltopdf.exe 
+2024-01-08 21:17:32,021 3844 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-J2QUOPI.lan:8069 
+2024-01-08 21:17:32,058 3844 INFO localhost odoo.modules.loading: loading 1 modules... 
+2024-01-08 21:17:32,062 3844 INFO localhost odoo.modules.loading: 1 modules loaded in 0.00s, 0 queries (+0 extra) 
+2024-01-08 21:17:32,068 3844 INFO localhost odoo.modules.loading: loading 11 modules... 
+2024-01-08 21:17:32,131 3844 INFO localhost odoo.modules.loading: 11 modules loaded in 0.06s, 0 queries (+0 extra) 
+2024-01-08 21:17:32,151 3844 INFO localhost odoo.modules.loading: Modules loaded. 
+2024-01-08 21:17:32,154 3844 INFO localhost odoo.modules.registry: Registry loaded in 0.136s 
+2024-01-08 21:18:00,353 3844 INFO localhost odoo.addons.base.models.ir_http: Generating routing map for key None 
+2024-01-08 21:18:00,380 3844 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:18:00] "GET /web HTTP/1.1" 303 - 9 0.006 0.022
+2024-01-08 21:18:00,530 3844 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:18:00] "GET /web/login HTTP/1.1" 200 - 52 0.021 0.127
+2024-01-08 21:18:00,919 3844 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:18:00] "GET /web/binary/company_logo HTTP/1.1" 304 - 5 0.004 0.297
+2024-01-08 21:18:01,275 3844 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:18:01] "GET /web/webclient/translations/1704748680951 HTTP/1.1" 200 - 7 0.003 0.005
+2024-01-08 21:18:03,411 3844 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:18:03] "GET /web/database/selector HTTP/1.1" 200 - 6 0.001 0.314
+2024-01-08 21:18:04,698 3844 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:18:04] "GET /web?db=localhost HTTP/1.1" 303 - 4 0.001 0.004
+2024-01-08 21:18:05,011 3844 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:18:05] "GET /web/login?db=localhost HTTP/1.1" 200 - 6 0.004 0.001
+2024-01-08 21:18:05,337 3844 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:18:05] "GET /web/binary/company_logo?dbname=localhost HTTP/1.1" 304 - 5 0.002 0.003
+2024-01-08 21:18:05,602 3844 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:18:05] "GET /web/webclient/translations/1704748685365 HTTP/1.1" 200 - 6 0.001 0.003
+2024-01-08 21:18:06,886 3844 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:18:06] "GET /web/database/manager HTTP/1.1" 200 - 6 0.002 0.309
+2024-01-08 21:18:11,809 3844 INFO None odoo.sql_db: ConnectionPool(used=2/count=2/max=64): Closed 2 connections to 'user=openpg password=xxx dbname=localhost host=localhost port=5432 application_name=odoo-3844 sslmode=prefer' 
+2024-01-08 21:18:12,736 3844 INFO None odoo.service.db: DROP DB: localhost 
+2024-01-08 21:18:12,752 3844 INFO None werkzeug: 127.0.0.1 - - [08/Jan/2024 21:18:12] "POST /web/database/drop HTTP/1.1" 303 - 6 0.803 0.697
+2024-01-08 21:18:12,778 3844 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:18:13,094 3844 INFO localhost odoo.sql_db: Connection to the database failed 
+2024-01-08 21:18:13,094 3844 ERROR localhost odoo.http: Exception during request handling. 
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\modules\registry.py", line 87, in __new__
+    return cls.registries[db_name]
+  File "<decorator-gen-5>", line 2, in __getitem__
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\tools\lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: 'localhost'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\http.py", line 1701, in _serve_db
+    self.registry = Registry(self.db).check_signaling()
+  File "C:\odoo17\server\odoo\modules\registry.py", line 89, in __new__
+    return cls.new(db_name)
+  File "<decorator-gen-16>", line 2, in new
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\modules\registry.py", line 101, in new
+    registry.init(db_name)
+  File "C:\odoo17\server\odoo\modules\registry.py", line 182, in init
+    with closing(self.cursor()) as cr:
+  File "C:\odoo17\server\odoo\modules\registry.py", line 950, in cursor
+    return self._db.cursor()
+  File "C:\odoo17\server\odoo\sql_db.py", line 752, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn)
+  File "C:\odoo17\server\odoo\sql_db.py", line 267, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "<decorator-gen-13>", line 2, in borrow
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\sql_db.py", line 681, in borrow
+    result = psycopg2.connect(
+  File "C:\odoo17\python\lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "localhost" does not exist
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\http.py", line 2150, in __call__
+    response = request._serve_db()
+  File "C:\odoo17\server\odoo\http.py", line 1716, in _serve_db
+    return self._serve_nodb()
+  File "C:\odoo17\server\odoo\http.py", line 1691, in _serve_nodb
+    response = self.dispatcher.dispatch(rule.endpoint, args)
+  File "C:\odoo17\server\odoo\http.py", line 1868, in dispatch
+    return endpoint(**self.request.params)
+  File "C:\odoo17\server\odoo\http.py", line 722, in route_wrapper
+    result = endpoint(self, *args, **params_ok)
+  File "C:\odoo17\server\odoo\addons\web\controllers\database.py", line 69, in manager
+    return self._render_template()
+  File "C:\odoo17\server\odoo\addons\web\controllers\database.py", line 40, in _render_template
+    d['incompatible_databases'] = odoo.service.db.list_db_incompatible(d['databases'])
+  File "C:\odoo17\server\odoo\service\db.py", line 433, in list_db_incompatible
+    with closing(db_connect(database_name).cursor()) as cr:
+  File "C:\odoo17\server\odoo\sql_db.py", line 752, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn)
+  File "C:\odoo17\server\odoo\sql_db.py", line 267, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "<decorator-gen-13>", line 2, in borrow
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\sql_db.py", line 681, in borrow
+    result = psycopg2.connect(
+  File "C:\odoo17\python\lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "localhost" does not exist
+
+2024-01-08 21:18:13,097 3844 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:18:13] "GET /web/database/manager HTTP/1.1" 500 - 0 0.000 0.342
+2024-01-08 21:18:14,891 3844 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:18:15,192 3844 INFO localhost odoo.sql_db: Connection to the database failed 
+2024-01-08 21:18:15,194 3844 ERROR localhost odoo.http: Exception during request handling. 
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\modules\registry.py", line 87, in __new__
+    return cls.registries[db_name]
+  File "<decorator-gen-5>", line 2, in __getitem__
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\tools\lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: 'localhost'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\http.py", line 1701, in _serve_db
+    self.registry = Registry(self.db).check_signaling()
+  File "C:\odoo17\server\odoo\modules\registry.py", line 89, in __new__
+    return cls.new(db_name)
+  File "<decorator-gen-16>", line 2, in new
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\modules\registry.py", line 101, in new
+    registry.init(db_name)
+  File "C:\odoo17\server\odoo\modules\registry.py", line 182, in init
+    with closing(self.cursor()) as cr:
+  File "C:\odoo17\server\odoo\modules\registry.py", line 950, in cursor
+    return self._db.cursor()
+  File "C:\odoo17\server\odoo\sql_db.py", line 752, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn)
+  File "C:\odoo17\server\odoo\sql_db.py", line 267, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "<decorator-gen-13>", line 2, in borrow
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\sql_db.py", line 681, in borrow
+    result = psycopg2.connect(
+  File "C:\odoo17\python\lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "localhost" does not exist
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\http.py", line 2150, in __call__
+    response = request._serve_db()
+  File "C:\odoo17\server\odoo\http.py", line 1716, in _serve_db
+    return self._serve_nodb()
+  File "C:\odoo17\server\odoo\http.py", line 1691, in _serve_nodb
+    response = self.dispatcher.dispatch(rule.endpoint, args)
+  File "C:\odoo17\server\odoo\http.py", line 1868, in dispatch
+    return endpoint(**self.request.params)
+  File "C:\odoo17\server\odoo\http.py", line 722, in route_wrapper
+    result = endpoint(self, *args, **params_ok)
+  File "C:\odoo17\server\odoo\addons\web\controllers\database.py", line 69, in manager
+    return self._render_template()
+  File "C:\odoo17\server\odoo\addons\web\controllers\database.py", line 40, in _render_template
+    d['incompatible_databases'] = odoo.service.db.list_db_incompatible(d['databases'])
+  File "C:\odoo17\server\odoo\service\db.py", line 433, in list_db_incompatible
+    with closing(db_connect(database_name).cursor()) as cr:
+  File "C:\odoo17\server\odoo\sql_db.py", line 752, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn)
+  File "C:\odoo17\server\odoo\sql_db.py", line 267, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "<decorator-gen-13>", line 2, in borrow
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\sql_db.py", line 681, in borrow
+    result = psycopg2.connect(
+  File "C:\odoo17\python\lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "localhost" does not exist
+
+2024-01-08 21:18:15,195 3844 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:18:15] "GET /web/database/manager HTTP/1.1" 500 - 0 0.000 0.326
+2024-01-08 21:18:16,653 3844 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:18:16,654 3844 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:18:16] "GET /web/database HTTP/1.1" 404 - 0 0.000 0.027
+2024-01-08 21:18:18,655 3844 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:18:18,656 3844 ERROR localhost odoo.http: Exception during request handling. 
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\modules\registry.py", line 87, in __new__
+    return cls.registries[db_name]
+  File "<decorator-gen-5>", line 2, in __getitem__
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\tools\lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: 'localhost'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\http.py", line 2150, in __call__
+    response = request._serve_db()
+  File "C:\odoo17\server\odoo\http.py", line 1701, in _serve_db
+    self.registry = Registry(self.db).check_signaling()
+  File "C:\odoo17\server\odoo\modules\registry.py", line 89, in __new__
+    return cls.new(db_name)
+  File "<decorator-gen-16>", line 2, in new
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\modules\registry.py", line 101, in new
+    registry.init(db_name)
+  File "C:\odoo17\server\odoo\modules\registry.py", line 182, in init
+    with closing(self.cursor()) as cr:
+  File "C:\odoo17\server\odoo\modules\registry.py", line 950, in cursor
+    return self._db.cursor()
+  File "C:\odoo17\server\odoo\sql_db.py", line 752, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn)
+  File "C:\odoo17\server\odoo\sql_db.py", line 267, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "<decorator-gen-13>", line 2, in borrow
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\sql_db.py", line 681, in borrow
+    result = psycopg2.connect(
+  File "C:\odoo17\python\lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "localhost" does not exist
+
+2024-01-08 21:18:18,656 3844 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:18:18] "GET /web HTTP/1.1" 500 - 0 0.000 0.025
+2024-01-08 21:18:19,090 3844 INFO ? odoo.sql_db: Connection to the database failed 
+2024-01-08 21:18:19,091 3844 ERROR localhost odoo.http: Exception during request handling. 
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\modules\registry.py", line 87, in __new__
+    return cls.registries[db_name]
+  File "<decorator-gen-5>", line 2, in __getitem__
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\tools\lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: 'localhost'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\http.py", line 2150, in __call__
+    response = request._serve_db()
+  File "C:\odoo17\server\odoo\http.py", line 1701, in _serve_db
+    self.registry = Registry(self.db).check_signaling()
+  File "C:\odoo17\server\odoo\modules\registry.py", line 89, in __new__
+    return cls.new(db_name)
+  File "<decorator-gen-16>", line 2, in new
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\modules\registry.py", line 101, in new
+    registry.init(db_name)
+  File "C:\odoo17\server\odoo\modules\registry.py", line 182, in init
+    with closing(self.cursor()) as cr:
+  File "C:\odoo17\server\odoo\modules\registry.py", line 950, in cursor
+    return self._db.cursor()
+  File "C:\odoo17\server\odoo\sql_db.py", line 752, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn)
+  File "C:\odoo17\server\odoo\sql_db.py", line 267, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "<decorator-gen-13>", line 2, in borrow
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\sql_db.py", line 681, in borrow
+    result = psycopg2.connect(
+  File "C:\odoo17\python\lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "localhost" does not exist
+
+2024-01-08 21:18:19,091 3844 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:18:19] "GET /web HTTP/1.1" 500 - 0 0.000 0.024
+2024-01-08 21:18:36,215 3844 INFO localhost odoo.service.server: Initiating shutdown 
+2024-01-08 21:18:36,216 3844 INFO localhost odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-01-08 21:18:37,318 3844 INFO localhost odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2024-01-08 21:18:40,240 18620 INFO ? odoo: Odoo version 17.0-20240108 
+2024-01-08 21:18:40,240 18620 INFO ? odoo: Using configuration file at C:\odoo17\server\odoo.conf 
+2024-01-08 21:18:40,240 18620 INFO ? odoo: addons paths: ['C:\\odoo17\\server\\odoo\\addons', 'c:\\odoo17\\sessions\\addons\\17.0', 'c:\\odoo17\\server\\odoo\\addons'] 
+2024-01-08 21:18:40,240 18620 INFO ? odoo: database: openpg@localhost:5432 
+2024-01-08 21:18:40,506 18620 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\odoo17\thirdparty\wkhtmltopdf.exe 
+2024-01-08 21:18:40,664 18620 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-J2QUOPI.lan:8069 
+2024-01-08 21:18:40,670 18620 INFO ? odoo.modules.loading: init db 
+2024-01-08 21:18:41,479 18620 INFO localhost odoo.modules.loading: loading 1 modules... 
+2024-01-08 21:18:41,479 18620 INFO localhost odoo.modules.loading: Loading module base (1/1) 
+2024-01-08 21:18:41,493 18620 INFO localhost odoo.modules.registry: module base: creating or updating database tables 
+2024-01-08 21:18:41,794 18620 INFO localhost odoo.models: Prepare computation of ir.module.module.menus_by_module 
+2024-01-08 21:18:41,795 18620 INFO localhost odoo.models: Prepare computation of ir.module.module.reports_by_module 
+2024-01-08 21:18:41,795 18620 INFO localhost odoo.models: Prepare computation of ir.module.module.views_by_module 
+2024-01-08 21:18:41,921 18620 INFO localhost odoo.models: Prepare computation of res.partner.user_id 
+2024-01-08 21:18:41,921 18620 INFO localhost odoo.models: Prepare computation of res.partner.commercial_partner_id 
+2024-01-08 21:18:41,921 18620 INFO localhost odoo.models: Prepare computation of res.partner.complete_name 
+2024-01-08 21:18:41,921 18620 INFO localhost odoo.models: Prepare computation of res.partner.company_registry 
+2024-01-08 21:18:41,921 18620 INFO localhost odoo.models: Prepare computation of res.partner.commercial_company_name 
+2024-01-08 21:18:41,921 18620 INFO localhost odoo.models: Prepare computation of res.partner.partner_share 
+2024-01-08 21:18:41,961 18620 INFO localhost odoo.models: Prepare computation of res.currency.decimal_places 
+2024-01-08 21:18:41,985 18620 INFO localhost odoo.models: Prepare computation of res.company.uses_default_logo 
+2024-01-08 21:18:41,985 18620 INFO localhost odoo.models: Prepare computation of res.company.logo_web 
+2024-01-08 21:18:41,987 18620 INFO localhost odoo.models: Computing parent_path for table res_company... 
+2024-01-08 21:18:42,010 18620 INFO localhost odoo.models: Prepare computation of res.users.signature 
+2024-01-08 21:18:42,010 18620 INFO localhost odoo.models: Prepare computation of res.users.share 
+2024-01-08 21:18:43,194 18620 INFO localhost odoo.modules.loading: loading base/data/res_bank.xml 
+2024-01-08 21:18:43,198 18620 INFO localhost odoo.modules.loading: loading base/data/res.lang.csv 
+2024-01-08 21:18:43,229 18620 INFO localhost odoo.modules.loading: loading base/data/res_lang_data.xml 
+2024-01-08 21:18:43,246 18620 INFO localhost odoo.modules.loading: loading base/data/res_partner_data.xml 
+2024-01-08 21:18:43,287 18620 INFO localhost odoo.modules.loading: loading base/data/res_currency_data.xml 
+2024-01-08 21:18:43,604 18620 INFO localhost odoo.modules.loading: loading base/data/res_company_data.xml 
+2024-01-08 21:18:43,610 18620 INFO localhost odoo.modules.loading: loading base/data/res_users_data.xml 
+2024-01-08 21:18:44,192 18620 INFO localhost odoo.modules.loading: loading base/data/report_paperformat_data.xml 
+2024-01-08 21:18:44,198 18620 INFO localhost odoo.modules.loading: loading base/data/res_country_data.xml 
+2024-01-08 21:18:44,486 18620 INFO localhost odoo.modules.loading: loading base/data/ir_demo_data.xml 
+2024-01-08 21:18:44,493 18620 INFO localhost odoo.modules.loading: loading base/security/base_groups.xml 
+2024-01-08 21:18:44,634 18620 INFO localhost odoo.modules.loading: loading base/security/base_security.xml 
+2024-01-08 21:18:44,693 18620 INFO localhost odoo.modules.loading: loading base/views/base_menus.xml 
+2024-01-08 21:18:44,737 18620 INFO localhost odoo.modules.loading: loading base/views/decimal_precision_views.xml 
+2024-01-08 21:18:44,748 18620 INFO localhost odoo.modules.loading: loading base/views/res_config_views.xml 
+2024-01-08 21:18:44,753 18620 INFO localhost odoo.modules.loading: loading base/data/res.country.state.csv 
+2024-01-08 21:18:45,057 18620 INFO localhost odoo.modules.loading: loading base/views/ir_actions_views.xml 
+2024-01-08 21:18:45,132 18620 INFO localhost odoo.modules.loading: loading base/views/ir_asset_views.xml 
+2024-01-08 21:18:45,142 18620 INFO localhost odoo.modules.loading: loading base/views/ir_config_parameter_views.xml 
+2024-01-08 21:18:45,153 18620 INFO localhost odoo.modules.loading: loading base/views/ir_cron_views.xml 
+2024-01-08 21:18:45,170 18620 INFO localhost odoo.modules.loading: loading base/views/ir_cron_trigger_views.xml 
+2024-01-08 21:18:45,180 18620 INFO localhost odoo.modules.loading: loading base/views/ir_filters_views.xml 
+2024-01-08 21:18:45,192 18620 INFO localhost odoo.modules.loading: loading base/views/ir_mail_server_views.xml 
+2024-01-08 21:18:45,203 18620 INFO localhost odoo.modules.loading: loading base/views/ir_model_views.xml 
+2024-01-08 21:18:45,288 18620 INFO localhost odoo.modules.loading: loading base/views/ir_attachment_views.xml 
+2024-01-08 21:18:45,300 18620 INFO localhost odoo.modules.loading: loading base/views/ir_rule_views.xml 
+2024-01-08 21:18:45,315 18620 INFO localhost odoo.modules.loading: loading base/views/ir_sequence_views.xml 
+2024-01-08 21:18:45,327 18620 INFO localhost odoo.modules.loading: loading base/views/ir_ui_menu_views.xml 
+2024-01-08 21:18:45,340 18620 INFO localhost odoo.modules.loading: loading base/views/ir_ui_view_views.xml 
+2024-01-08 21:18:45,367 18620 INFO localhost odoo.modules.loading: loading base/views/ir_default_views.xml 
+2024-01-08 21:18:45,378 18620 INFO localhost odoo.modules.loading: loading base/data/ir_cron_data.xml 
+2024-01-08 21:18:45,387 18620 INFO localhost odoo.modules.loading: loading base/report/ir_model_report.xml 
+2024-01-08 21:18:45,391 18620 INFO localhost odoo.modules.loading: loading base/report/ir_model_templates.xml 
+2024-01-08 21:18:45,396 18620 INFO localhost odoo.modules.loading: loading base/views/ir_logging_views.xml 
+2024-01-08 21:18:45,408 18620 INFO localhost odoo.modules.loading: loading base/views/ir_qweb_widget_templates.xml 
+2024-01-08 21:18:45,415 18620 INFO localhost odoo.modules.loading: loading base/views/ir_module_views.xml 
+2024-01-08 21:18:45,446 18620 INFO localhost odoo.modules.loading: loading base/data/ir_module_category_data.xml 
+2024-01-08 21:18:45,487 18620 INFO localhost odoo.modules.loading: loading base/data/ir_module_module.xml 
+2024-01-08 21:18:45,527 18620 INFO localhost odoo.modules.loading: loading base/report/ir_module_reports.xml 
+2024-01-08 21:18:45,530 18620 INFO localhost odoo.modules.loading: loading base/report/ir_module_report_templates.xml 
+2024-01-08 21:18:45,533 18620 INFO localhost odoo.modules.loading: loading base/wizard/base_module_update_views.xml 
+2024-01-08 21:18:45,541 18620 INFO localhost odoo.modules.loading: loading base/wizard/base_language_install_views.xml 
+2024-01-08 21:18:45,548 18620 INFO localhost odoo.modules.loading: loading base/wizard/base_import_language_views.xml 
+2024-01-08 21:18:45,554 18620 INFO localhost odoo.modules.loading: loading base/wizard/base_module_upgrade_views.xml 
+2024-01-08 21:18:45,564 18620 INFO localhost odoo.modules.loading: loading base/wizard/base_module_uninstall_views.xml 
+2024-01-08 21:18:45,569 18620 INFO localhost odoo.modules.loading: loading base/wizard/base_export_language_views.xml 
+2024-01-08 21:18:45,576 18620 INFO localhost odoo.modules.loading: loading base/wizard/base_partner_merge_views.xml 
+2024-01-08 21:18:45,584 18620 INFO localhost odoo.modules.loading: loading base/data/ir_demo_failure_data.xml 
+2024-01-08 21:18:45,592 18620 INFO localhost odoo.modules.loading: loading base/views/ir_profile_views.xml 
+2024-01-08 21:18:45,605 18620 INFO localhost odoo.modules.loading: loading base/views/res_company_views.xml 
+2024-01-08 21:18:45,618 18620 INFO localhost odoo.modules.loading: loading base/views/res_lang_views.xml 
+2024-01-08 21:18:45,630 18620 INFO localhost odoo.modules.loading: loading base/views/res_partner_views.xml 
+2024-01-08 21:18:45,695 18620 INFO localhost odoo.modules.loading: loading base/views/res_bank_views.xml 
+2024-01-08 21:18:45,713 18620 INFO localhost odoo.modules.loading: loading base/views/res_country_views.xml 
+2024-01-08 21:18:45,736 18620 INFO localhost odoo.modules.loading: loading base/views/res_currency_views.xml 
+2024-01-08 21:18:45,756 18620 INFO localhost odoo.modules.loading: loading base/views/res_users_views.xml 
+2024-01-08 21:18:45,819 18620 INFO localhost odoo.modules.loading: loading base/views/res_users_identitycheck_views.xml 
+2024-01-08 21:18:45,825 18620 INFO localhost odoo.modules.loading: loading base/views/ir_property_views.xml 
+2024-01-08 21:18:45,836 18620 INFO localhost odoo.modules.loading: loading base/views/res_config_settings_views.xml 
+2024-01-08 21:18:45,840 18620 INFO localhost odoo.modules.loading: loading base/views/report_paperformat_views.xml 
+2024-01-08 21:18:45,855 18620 INFO localhost odoo.modules.loading: loading base/security/ir.model.access.csv 
+2024-01-08 21:18:45,924 18620 INFO localhost odoo.modules.loading: Module base: loading demo 
+2024-01-08 21:18:45,925 18620 INFO localhost odoo.modules.loading: loading base/data/res_users_demo.xml 
+2024-01-08 21:18:46,892 18620 INFO localhost odoo.modules.loading: loading base/data/res_partner_bank_demo.xml 
+2024-01-08 21:18:46,896 18620 INFO localhost odoo.modules.loading: loading base/data/res_currency_demo.xml 
+2024-01-08 21:18:46,899 18620 INFO localhost odoo.modules.loading: loading base/data/res_currency_rate_demo.xml 
+2024-01-08 21:18:47,050 18620 INFO localhost odoo.modules.loading: loading base/data/res_bank_demo.xml 
+2024-01-08 21:18:47,054 18620 INFO localhost odoo.modules.loading: loading base/data/res_partner_demo.xml 
+2024-01-08 21:18:47,188 18620 INFO localhost odoo.modules.loading: loading base/data/res_partner_image_demo.xml 
+2024-01-08 21:18:47,538 18620 INFO localhost odoo.modules.loading: Module base loaded in 6.06s, 9029 queries (+9029 other) 
+2024-01-08 21:18:47,539 18620 INFO localhost odoo.modules.loading: 1 modules loaded in 6.06s, 9029 queries (+9029 extra) 
+2024-01-08 21:18:47,550 18620 INFO localhost odoo.modules.loading: updating modules list 
+2024-01-08 21:18:47,551 18620 INFO localhost odoo.addons.base.models.ir_module: ALLOW access to module.update_list on [] to user __system__ #1 via n/a 
+2024-01-08 21:18:47,978 18620 INFO localhost odoo.modules.loading: loading 11 modules... 
+2024-01-08 21:18:47,978 18620 INFO localhost odoo.modules.loading: Loading module web (2/11) 
+2024-01-08 21:18:47,991 18620 INFO localhost odoo.modules.registry: module web: creating or updating database tables 
+2024-01-08 21:18:48,334 18620 INFO localhost odoo.modules.loading: loading web/security/ir.model.access.csv 
+2024-01-08 21:18:48,346 18620 INFO localhost odoo.modules.loading: loading web/views/webclient_templates.xml 
+2024-01-08 21:18:48,373 18620 INFO localhost odoo.modules.loading: loading web/views/report_templates.xml 
+2024-01-08 21:18:48,416 18620 INFO localhost odoo.modules.loading: loading web/views/base_document_layout_views.xml 
+2024-01-08 21:18:48,425 18620 INFO localhost odoo.modules.loading: loading web/views/partner_view.xml 
+2024-01-08 21:18:48,429 18620 INFO localhost odoo.modules.loading: loading web/views/speedscope_template.xml 
+2024-01-08 21:18:48,432 18620 INFO localhost odoo.modules.loading: loading web/views/neutralize_views.xml 
+2024-01-08 21:18:48,435 18620 INFO localhost odoo.modules.loading: loading web/data/ir_attachment.xml 
+2024-01-08 21:18:48,440 18620 INFO localhost odoo.modules.loading: loading web/data/report_layout.xml 
+2024-01-08 21:18:48,470 18620 INFO localhost odoo.modules.loading: Module web loaded in 0.49s, 941 queries (+941 other) 
+2024-01-08 21:18:48,471 18620 INFO localhost odoo.modules.loading: Loading module auth_totp (3/11) 
+2024-01-08 21:18:48,491 18620 INFO localhost odoo.modules.registry: module auth_totp: creating or updating database tables 
+2024-01-08 21:18:48,537 18620 INFO localhost odoo.modules.loading: loading auth_totp/security/security.xml 
+2024-01-08 21:18:48,552 18620 INFO localhost odoo.modules.loading: loading auth_totp/security/ir.model.access.csv 
+2024-01-08 21:18:48,559 18620 INFO localhost odoo.modules.loading: loading auth_totp/data/ir_action_data.xml 
+2024-01-08 21:18:48,563 18620 INFO localhost odoo.modules.loading: loading auth_totp/views/res_users_views.xml 
+2024-01-08 21:18:48,577 18620 INFO localhost odoo.modules.loading: loading auth_totp/views/templates.xml 
+2024-01-08 21:18:48,580 18620 INFO localhost odoo.modules.loading: loading auth_totp/wizard/auth_totp_wizard_views.xml 
+2024-01-08 21:18:48,593 18620 INFO localhost odoo.modules.loading: Module auth_totp loaded in 0.12s, 173 queries (+173 other) 
+2024-01-08 21:18:48,593 18620 INFO localhost odoo.modules.loading: Loading module base_import (4/11) 
+2024-01-08 21:18:48,610 18620 INFO localhost odoo.modules.registry: module base_import: creating or updating database tables 
+2024-01-08 21:18:48,949 18620 INFO localhost odoo.modules.loading: loading base_import/security/ir.model.access.csv 
+2024-01-08 21:18:48,961 18620 INFO localhost odoo.modules.loading: Module base_import loaded in 0.37s, 753 queries (+753 other) 
+2024-01-08 21:18:48,962 18620 INFO localhost odoo.modules.loading: Loading module base_import_module (5/11) 
+2024-01-08 21:18:48,975 18620 INFO localhost odoo.modules.registry: module base_import_module: creating or updating database tables 
+2024-01-08 21:18:49,023 18620 INFO localhost odoo.modules.loading: loading base_import_module/security/ir.model.access.csv 
+2024-01-08 21:18:49,029 18620 INFO localhost odoo.modules.loading: loading base_import_module/views/base_import_module_view.xml 
+2024-01-08 21:18:49,039 18620 INFO localhost odoo.modules.loading: loading base_import_module/views/ir_module_views.xml 
+2024-01-08 21:18:49,090 18620 INFO localhost odoo.modules.loading: Module base_import_module loaded in 0.13s, 142 queries (+142 other) 
+2024-01-08 21:18:49,090 18620 INFO localhost odoo.modules.loading: Loading module base_setup (6/11) 
+2024-01-08 21:18:49,103 18620 INFO localhost odoo.modules.registry: module base_setup: creating or updating database tables 
+2024-01-08 21:18:49,138 18620 INFO localhost odoo.modules.loading: loading base_setup/data/base_setup_data.xml 
+2024-01-08 21:18:49,141 18620 INFO localhost odoo.modules.loading: loading base_setup/views/res_config_settings_views.xml 
+2024-01-08 21:18:49,159 18620 INFO localhost odoo.modules.loading: loading base_setup/views/res_partner_views.xml 
+2024-01-08 21:18:49,170 18620 INFO localhost odoo.modules.loading: Module base_setup loaded in 0.08s, 137 queries (+137 other) 
+2024-01-08 21:18:49,170 18620 INFO localhost odoo.modules.loading: Loading module bus (7/11) 
+2024-01-08 21:18:49,190 18620 INFO localhost odoo.modules.registry: module bus: creating or updating database tables 
+2024-01-08 21:18:49,245 18620 INFO localhost odoo.modules.loading: loading bus/security/ir.model.access.csv 
+2024-01-08 21:18:49,258 18620 INFO localhost odoo.modules.loading: Module bus loaded in 0.09s, 107 queries (+107 other) 
+2024-01-08 21:18:49,258 18620 INFO localhost odoo.modules.loading: Loading module web_tour (8/11) 
+2024-01-08 21:18:49,270 18620 INFO localhost odoo.modules.registry: module web_tour: creating or updating database tables 
+2024-01-08 21:18:49,291 18620 INFO localhost odoo.modules.loading: loading web_tour/security/ir.model.access.csv 
+2024-01-08 21:18:49,297 18620 INFO localhost odoo.modules.loading: loading web_tour/security/ir.rule.csv 
+2024-01-08 21:18:49,302 18620 INFO localhost odoo.modules.loading: loading web_tour/views/tour_views.xml 
+2024-01-08 21:18:49,323 18620 INFO localhost odoo.modules.loading: Module web_tour loaded in 0.06s, 103 queries (+103 other) 
+2024-01-08 21:18:49,323 18620 INFO localhost odoo.modules.loading: Loading module iap (9/11) 
+2024-01-08 21:18:49,335 18620 INFO localhost odoo.modules.registry: module iap: creating or updating database tables 
+2024-01-08 21:18:49,387 18620 INFO localhost odoo.modules.loading: loading iap/security/ir.model.access.csv 
+2024-01-08 21:18:49,394 18620 INFO localhost odoo.modules.loading: loading iap/security/ir_rule.xml 
+2024-01-08 21:18:49,398 18620 INFO localhost odoo.modules.loading: loading iap/views/iap_views.xml 
+2024-01-08 21:18:49,412 18620 INFO localhost odoo.modules.loading: loading iap/views/res_config_settings.xml 
+2024-01-08 21:18:49,426 18620 INFO localhost odoo.modules.loading: Module iap loaded in 0.10s, 150 queries (+150 other) 
+2024-01-08 21:18:49,427 18620 INFO localhost odoo.modules.loading: Loading module web_editor (10/11) 
+2024-01-08 21:18:49,456 18620 INFO localhost odoo.modules.registry: module web_editor: creating or updating database tables 
+2024-01-08 21:18:49,815 18620 INFO localhost odoo.modules.loading: loading web_editor/security/ir.model.access.csv 
+2024-01-08 21:18:49,822 18620 INFO localhost odoo.modules.loading: loading web_editor/data/editor_assets.xml 
+2024-01-08 21:18:49,825 18620 INFO localhost odoo.modules.loading: loading web_editor/views/editor.xml 
+2024-01-08 21:18:49,834 18620 INFO localhost odoo.modules.loading: loading web_editor/views/snippets.xml 
+2024-01-08 21:18:49,862 18620 INFO localhost odoo.modules.loading: Module web_editor loaded in 0.44s, 859 queries (+859 other) 
+2024-01-08 21:18:49,862 18620 INFO localhost odoo.modules.loading: Loading module web_unsplash (11/11) 
+2024-01-08 21:18:49,877 18620 INFO localhost odoo.modules.registry: module web_unsplash: creating or updating database tables 
+2024-01-08 21:18:49,906 18620 INFO localhost odoo.modules.loading: loading web_unsplash/views/res_config_settings_view.xml 
+2024-01-08 21:18:49,924 18620 INFO localhost odoo.modules.loading: Module web_unsplash loaded in 0.06s, 93 queries (+93 other) 
+2024-01-08 21:18:49,924 18620 INFO localhost odoo.modules.loading: 11 modules loaded in 1.95s, 3458 queries (+3458 extra) 
+2024-01-08 21:18:50,094 18620 INFO localhost odoo.modules.loading: Modules loaded. 
+2024-01-08 21:18:50,096 18620 INFO localhost odoo.modules.registry: Registry loaded in 9.437s 
+2024-01-08 21:18:58,290 18620 INFO localhost odoo.sql_db: Connection to the database failed 
+2024-01-08 21:18:58,290 18620 WARNING localhost odoo.addons.base.models.ir_cron: Exception in cron: 
+Traceback (most recent call last):
+  File "C:\odoo17\server\odoo\addons\base\models\ir_cron.py", line 105, in _process_jobs
+    with db.cursor() as cron_cr:
+  File "C:\odoo17\server\odoo\sql_db.py", line 752, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn)
+  File "C:\odoo17\server\odoo\sql_db.py", line 267, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "<decorator-gen-13>", line 2, in borrow
+  File "C:\odoo17\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "C:\odoo17\server\odoo\sql_db.py", line 681, in borrow
+    result = psycopg2.connect(
+  File "C:\odoo17\python\lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "localhost" (::1), port 5432 failed: FATAL:  the database system is shutting down
+
+2024-01-08 21:19:03,130 18620 INFO localhost odoo.service.server: Initiating shutdown 
+2024-01-08 21:19:03,130 18620 INFO localhost odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-01-08 21:19:03,495 18620 INFO localhost odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 3 connections  
+2024-01-08 21:19:06,896 5540 INFO ? odoo: Odoo version 17.0-20240108 
+2024-01-08 21:19:06,896 5540 INFO ? odoo: Using configuration file at C:\odoo17\server\odoo.conf 
+2024-01-08 21:19:06,896 5540 INFO ? odoo: addons paths: ['C:\\odoo17\\server\\odoo\\addons', 'c:\\odoo17\\sessions\\addons\\17.0', 'c:\\odoo17\\server\\odoo\\addons'] 
+2024-01-08 21:19:06,896 5540 INFO ? odoo: database: openpg@localhost:5432 
+2024-01-08 21:19:07,020 5540 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\odoo17\thirdparty\wkhtmltopdf.exe 
+2024-01-08 21:19:07,193 5540 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-J2QUOPI.lan:8069 
+2024-01-08 21:19:07,240 5540 INFO localhost odoo.modules.loading: loading 1 modules... 
+2024-01-08 21:19:07,244 5540 INFO localhost odoo.modules.loading: 1 modules loaded in 0.00s, 0 queries (+0 extra) 
+2024-01-08 21:19:07,250 5540 INFO localhost odoo.modules.loading: loading 11 modules... 
+2024-01-08 21:19:07,311 5540 INFO localhost odoo.modules.loading: 11 modules loaded in 0.06s, 0 queries (+0 extra) 
+2024-01-08 21:19:07,332 5540 INFO localhost odoo.modules.loading: Modules loaded. 
+2024-01-08 21:19:07,335 5540 INFO localhost odoo.modules.registry: Registry loaded in 0.147s 
+2024-01-08 21:19:17,603 5540 INFO localhost odoo.addons.base.models.ir_http: Generating routing map for key None 
+2024-01-08 21:19:17,631 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:19:17] "GET /web HTTP/1.1" 303 - 9 0.009 0.021
+2024-01-08 21:19:17,766 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:19:17] "GET /web/login HTTP/1.1" 200 - 52 0.016 0.117
+2024-01-08 21:19:18,148 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:19:18] "GET /web/binary/company_logo HTTP/1.1" 200 - 5 0.004 0.304
+2024-01-08 21:19:18,505 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:19:18] "GET /web/webclient/translations/1704748758187 HTTP/1.1" 200 - 7 0.002 0.007
+2024-01-08 21:19:20,207 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:19:20] "GET /web/database/manager HTTP/1.1" 200 - 6 0.003 0.311
+2024-01-08 21:19:36,672 5540 WARNING localhost odoo.service.db: RESTORE DB: localhost already exists 
+2024-01-08 21:19:36,983 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:19:36] "POST /web/database/restore HTTP/1.1" 200 - 6 0.003 0.868
+2024-01-08 21:19:40,571 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:19:40] "GET /web?db=localhost HTTP/1.1" 303 - 4 0.001 0.003
+2024-01-08 21:19:40,878 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:19:40] "GET /web/login?db=localhost HTTP/1.1" 200 - 6 0.001 0.003
+2024-01-08 21:19:41,209 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:19:41] "GET /web/binary/company_logo?dbname=localhost HTTP/1.1" 200 - 5 0.001 0.004
+2024-01-08 21:19:41,476 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:19:41] "GET /web/webclient/translations/1704748781226 HTTP/1.1" 200 - 6 0.002 0.002
+2024-01-08 21:20:05,380 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:20:05] "GET /web HTTP/1.1" 303 - 4 0.001 0.003
+2024-01-08 21:20:05,691 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:20:05] "GET /web/login HTTP/1.1" 200 - 6 0.004 0.000
+2024-01-08 21:20:05,959 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:20:05] "GET /web/binary/company_logo HTTP/1.1" 304 - 5 0.003 0.001
+2024-01-08 21:20:06,023 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:20:06] "GET /web/webclient/translations/1704748805999 HTTP/1.1" 200 - 6 0.002 0.003
+2024-01-08 21:20:07,411 5540 INFO localhost odoo.addons.base.models.ir_cron: Starting job `Base: Auto-vacuum internal data`. 
+2024-01-08 21:20:07,439 5540 INFO localhost odoo.addons.base.models.ir_attachment: filestore gc 55 checked, 0 removed 
+2024-01-08 21:20:07,466 5540 INFO localhost odoo.addons.base.models.res_users: GC'd 0 user log entries 
+2024-01-08 21:20:07,483 5540 INFO localhost odoo.addons.auth_totp.models.auth_totp: GC'd 0 totp devices entries 
+2024-01-08 21:20:07,492 5540 INFO localhost odoo.addons.base.models.ir_cron: Job `Base: Auto-vacuum internal data` done. 
+2024-01-08 21:20:07,496 5540 INFO localhost odoo.addons.base.models.ir_cron: Starting job `Base: Portal Users Deletion`. 
+2024-01-08 21:20:07,498 5540 INFO localhost odoo.addons.base.models.ir_cron: Job `Base: Portal Users Deletion` done. 
+2024-01-08 21:20:09,098 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:20:09] "GET /web/database/selector HTTP/1.1" 200 - 6 0.001 0.310
+2024-01-08 21:20:11,238 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:20:11] "GET /web?db=localhost HTTP/1.1" 303 - 4 0.000 0.005
+2024-01-08 21:20:11,539 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:20:11] "GET /web/login?db=localhost HTTP/1.1" 200 - 6 0.003 0.002
+2024-01-08 21:20:11,860 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:20:11] "GET /web/binary/company_logo?dbname=localhost HTTP/1.1" 304 - 5 0.003 0.002
+2024-01-08 21:20:12,124 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:20:12] "GET /web/webclient/translations/1704748811898 HTTP/1.1" 200 - 6 0.002 0.003
+2024-01-08 21:21:48,872 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:21:48] "GET /web/login?db=localhost HTTP/1.1" 200 - 6 0.002 0.004
+2024-01-08 21:21:48,897 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:21:48] "GET /web/binary/company_logo?dbname=localhost HTTP/1.1" 304 - 5 0.001 0.005
+2024-01-08 21:21:49,139 5540 INFO localhost werkzeug: 127.0.0.1 - - [08/Jan/2024 21:21:49] "GET /web/webclient/translations/1704748908950 HTTP/1.1" 200 - 6 0.000 0.005
+2024-01-08 21:21:54,147 5540 INFO localhost odoo.service.server: Initiating shutdown 
+2024-01-08 21:21:54,147 5540 INFO localhost odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-01-08 21:21:54,189 5540 INFO localhost odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 5 connections  
+2024-01-08 21:21:56,168 18828 INFO ? odoo: Odoo version 17.0-20240108 
+2024-01-08 21:21:56,169 18828 INFO ? odoo: Using configuration file at C:\odoo17\server\odoo.conf 
+2024-01-08 21:21:56,169 18828 INFO ? odoo: addons paths: ['C:\\odoo17\\server\\odoo\\addons', 'c:\\odoo17\\sessions\\addons\\17.0', 'c:\\odoo17\\server\\odoo\\addons'] 
+2024-01-08 21:21:56,169 18828 INFO ? odoo: database: openpg@localhost:5432 
+2024-01-08 21:21:56,291 18828 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\odoo17\thirdparty\wkhtmltopdf.exe 
+2024-01-08 21:21:56,450 18828 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-J2QUOPI.lan:8069 
+2024-01-08 21:21:56,484 18828 INFO cinemaDB odoo.modules.loading: loading 1 modules... 
+2024-01-08 21:21:56,488 18828 INFO cinemaDB odoo.modules.loading: 1 modules loaded in 0.00s, 0 queries (+0 extra) 
+2024-01-08 21:21:56,494 18828 INFO cinemaDB odoo.modules.loading: loading 11 modules... 
+2024-01-08 21:21:56,548 18828 INFO cinemaDB odoo.modules.loading: 11 modules loaded in 0.05s, 0 queries (+0 extra) 
+2024-01-08 21:21:56,567 18828 INFO cinemaDB odoo.modules.loading: Modules loaded. 
+2024-01-08 21:21:56,570 18828 INFO cinemaDB odoo.modules.registry: Registry loaded in 0.125s 
+2024-01-08 21:22:05,270 18828 INFO cinemaDB odoo.addons.base.models.ir_http: Generating routing map for key None 
+2024-01-08 21:22:05,609 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:05] "GET /web/database/manager HTTP/1.1" 200 - 11 0.009 0.592
+2024-01-08 21:22:07,922 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:07] "GET /web?db=cinemaDB HTTP/1.1" 303 - 4 0.002 0.003
+2024-01-08 21:22:08,055 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:08] "GET /web/login?db=cinemaDB HTTP/1.1" 200 - 52 0.017 0.113
+2024-01-08 21:22:08,408 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:08] "GET /web/binary/company_logo?dbname=cinemaDB HTTP/1.1" 200 - 5 0.004 0.029
+2024-01-08 21:22:08,649 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:08] "GET /web/webclient/translations/1704748928426 HTTP/1.1" 200 - 7 0.002 0.006
+2024-01-08 21:22:19,012 18828 INFO cinemaDB odoo.addons.base.models.res_users: Login successful for db:cinemaDB login:admin from 127.0.0.1 
+2024-01-08 21:22:19,019 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:19] "POST /web/login HTTP/1.1" 303 - 38 0.027 0.298
+2024-01-08 21:22:19,169 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:19] "GET /web HTTP/1.1" 200 - 59 0.021 0.126
+2024-01-08 21:22:25,093 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:25] "GET /web/webclient/load_menus/172bef6a7af96680ac3a6d836ca7e789cae2e213afe9556bbb3468597f3484c3 HTTP/1.1" 200 - 1 0.002 5.581
+2024-01-08 21:22:25,122 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:25] "GET /web/webclient/translations/c097a4426362f8e75854b784c5418b565eb85939?lang=en_US HTTP/1.1" 200 - 3 0.040 5.572
+2024-01-08 21:22:25,146 18828 INFO cinemaDB odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/74451b0/web.assets_web.min.css (id:188) 
+2024-01-08 21:22:25,191 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:25] "GET /web/assets/74451b0/web.assets_web.min.css HTTP/1.1" 200 - 15 0.026 5.671
+2024-01-08 21:22:25,838 18828 INFO cinemaDB odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/5ea4d34/web.assets_web.min.js (id:189) 
+2024-01-08 21:22:26,211 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:26] "GET /web/assets/5ea4d34/web.assets_web.min.js HTTP/1.1" 200 - 11 0.006 6.711
+2024-01-08 21:22:26,332 18828 INFO cinemaDB odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/2735f76/bus.websocket_worker_assets.min.js (id:190) 
+2024-01-08 21:22:26,342 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:26] "GET /bus/websocket_worker_bundle?v=1.0.7 HTTP/1.1" 200 - 8 0.001 0.019
+2024-01-08 21:22:26,636 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:26] "GET /web/static/lib/odoo_ui_icons/fonts/odoo_ui_icons.woff2 HTTP/1.1" 200 - 0 0.000 0.001
+2024-01-08 21:22:26,678 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:26] "GET /web/manifest.webmanifest HTTP/1.1" 200 - 7 0.005 0.006
+2024-01-08 21:22:26,684 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:26] "POST /web/action/load HTTP/1.1" 200 - 9 0.009 0.008
+2024-01-08 21:22:26,687 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:26] "GET /web/service-worker.js HTTP/1.1" 200 - 1 0.001 0.005
+2024-01-08 21:22:26,691 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:26] "GET /websocket HTTP/1.1" 101 - 1 0.000 0.008
+2024-01-08 21:22:26,695 18828 INFO ? odoo.addons.bus.models.bus: Bus.loop listen imbus on db postgres 
+2024-01-08 21:22:26,725 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:26] "GET /web/image?model=res.users&field=avatar_128&id=2 HTTP/1.1" 200 - 9 0.005 0.040
+2024-01-08 21:22:26,999 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:26] "GET /web/static/img/odoo-icon-192x192.png HTTP/1.1" 200 - 0 0.000 0.001
+2024-01-08 21:22:27,026 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:27] "GET /web/offline HTTP/1.1" 200 - 6 0.005 0.007
+2024-01-08 21:22:27,037 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:27] "POST /web/dataset/call_kw/ir.module.module/get_views HTTP/1.1" 200 - 47 0.019 0.020
+2024-01-08 21:22:27,361 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:27] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 1 0.000 0.003
+2024-01-08 21:22:27,382 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:27] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 39 0.014 0.009
+2024-01-08 21:22:27,395 18828 INFO cinemaDB werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:27] "POST /web/dataset/call_kw/ir.module.module/web_search_read HTTP/1.1" 200 - 4 0.005 0.031
+2024-01-08 21:22:27,624 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:27] "GET /sale_management/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.001
+2024-01-08 21:22:27,811 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:27] "GET /point_of_sale/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.001
+2024-01-08 21:22:27,827 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:27] "GET /mrp/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.002
+2024-01-08 21:22:27,828 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:27] "GET /base/static/img/icons/quality_control.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-01-08 21:22:27,829 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:27] "GET /base/static/img/icons/industry_fsm.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-01-08 21:22:27,829 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:27] "GET /website_sale/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-01-08 21:22:27,933 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:27] "GET /mail/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.002
+2024-01-08 21:22:28,119 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:28] "GET /base/static/img/icons/sign.png HTTP/1.1" 200 - 0 0.000 0.001
+2024-01-08 21:22:28,136 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:28] "GET /base/static/img/icons/sale_subscription.png HTTP/1.1" 200 - 0 0.000 0.002
+2024-01-08 21:22:28,137 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:28] "GET /data_recycle/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-01-08 21:22:28,137 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:28] "GET /maintenance/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-01-08 21:22:28,137 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:28] "GET /website_event/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.002
+2024-01-08 21:22:28,245 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:28] "GET /hr_recruitment/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.001
+2024-01-08 21:22:28,432 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:28] "GET /base/static/img/icons/planning.png HTTP/1.1" 200 - 0 0.000 0.001
+2024-01-08 21:22:28,449 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:28] "GET /purchase/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-01-08 21:22:28,449 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:28] "GET /base/static/img/icons/knowledge.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-01-08 21:22:28,450 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:28] "GET /base/static/img/icons/timesheet_grid.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-01-08 21:22:28,450 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:28] "GET /base/static/img/icons/web_studio.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-01-08 21:22:28,556 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:28] "GET /base/static/img/icons/account_accountant.png HTTP/1.1" 200 - 0 0.000 0.002
+2024-01-08 21:22:28,743 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:28] "GET /hr_holidays/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.001
+2024-01-08 21:22:28,760 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:28] "GET /hr/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-01-08 21:22:28,761 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:28] "GET /base/static/img/icons/helpdesk.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-01-08 21:22:28,761 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:28] "GET /hr_expense/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-01-08 21:22:28,761 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:28] "GET /project/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-01-08 21:22:28,869 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:28] "GET /website_slides/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.001
+2024-01-08 21:22:29,055 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:29] "GET /mass_mailing/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.001
+2024-01-08 21:22:29,072 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:29] "GET /crm/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.002
+2024-01-08 21:22:29,073 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:29] "GET /account/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-01-08 21:22:29,073 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:29] "GET /pos_restaurant/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-01-08 21:22:29,073 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:29] "GET /base/static/img/icons/mrp_workorder.png HTTP/1.1" 200 - 0 0.000 0.002
+2024-01-08 21:22:29,181 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:29] "GET /website/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.001
+2024-01-08 21:22:29,369 18828 INFO ? werkzeug: 127.0.0.1 - - [08/Jan/2024 21:22:29] "GET /stock/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.001
+2024-01-08 21:25:15,942 18828 INFO cinemaDB odoo.service.server: Initiating shutdown 
+2024-01-08 21:25:15,942 18828 INFO cinemaDB odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-01-08 21:25:16,380 18828 INFO cinemaDB odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 7 connections  
